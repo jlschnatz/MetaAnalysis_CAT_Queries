@@ -1,0 +1,238 @@
+TY  - JOUR
+AU  - Lu, Hong
+AU  - Hu, Yi-Ping
+AU  - Gao, Jia-Jia
+AU  - Kinshuk, 
+TI  - The Effects of Computer Self-Efficacy, Training Satisfaction and Test
+      Anxiety on Attitude and Performance in Computerized Adaptive Testing
+T2  - Comput. Educ.
+VL  - 100
+IS  - C
+SP  - 45–55
+PY  - 2016
+DA  - 2016/9
+PB  - Elsevier Science Ltd.
+CY  - GBR
+AB  - This study focused on test-takers' psychological effects on computerized
+      adaptive testing (CAT). The development and implementation of CAT were
+      based on item response theory (IRT), and two-parameter logistic model was
+      chosen for the items. The total of 268 students from a high school in
+      Jinan took part in the English adaptive test. A structural equation model
+      was used to examine the potential connections among a series of individual
+      variables (computer self-efficacy, training satisfaction, test anxiety,
+      CAT attitude and CAT performance). The findings revealed significant
+      positive paths from computer self-efficacy and training satisfaction to
+      CAT attitude, as well as a negative path from test anxiety to CAT
+      performance. Furthermore, there was significant correlation between the
+      residual variances of CAT attitude and CAT performance. Thus, it could be
+      seen CAT might produce an unfair disadvantage for test-takers with higher
+      test anxiety. The relevant research and implications were further
+      discussed. The researches on CAT and psychological effects have yielded
+      mixed results.A causal model of CAT was constructed in this study.The
+      results showed that CAT might produce an unfair disadvantage for
+      test-takers with higher test anxiety.CAT training and increasing computer
+      self-efficacy could improve individual attitude to CAT.The differences in
+      information technology facilities in different areas would not influence
+      CAT performance significantly.
+SN  - 0360-1315
+DO  - 10.1016/j.compedu.2016.04.012
+UR  - https://doi.org/10.1016/j.compedu.2016.04.012
+UR  - http://dx.doi.org/10.1016/j.compedu.2016.04.012
+KW  - Test anxiety, Computer self-efficacy, Training satisfaction, Computerized adaptive testing, Structural equation model
+ER  - 
+
+TY  - JOUR
+AU  - Streitwieser, Christian
+TI  - Real-Time Adaptive Test Algorithm Including Test Escape Estimation Method
+T2  - J. Electron. Test.
+VL  - 32
+IS  - 3
+SP  - 369–375
+PY  - 2016
+DA  - 2016/6
+PB  - Kluwer Academic Publishers
+CY  - USA
+AB  - This work aims to reduce the test time per chip, but affect the quality of
+      the products only as little as possible compared to the conventional
+      semiconductor test. For that purpose, a simulation software has been
+      developed that performs adaptive test simulations based on real data and
+      test results of conventional production testing. Products has been
+      analyzed and both the potential for test time savings and the resulting
+      loss of quality are determined. Finally, it is shown that by the
+      intelligent omission of tests, compared to conventional testing
+      procedures, test time reduction of up to 50 % can be achieved. In
+      contrast, there are only few defective components that are not detected by
+      the adaptive test procedure and which reduced the quality of products. In
+      best case, the fraction of test escapes was under 40 ppm. To handle the
+      potential risk of test escapes this paper also introduces a statistical
+      estimation method.
+SN  - 0923-8174
+DO  - 10.1007/s10836-016-5585-1
+UR  - https://doi.org/10.1007/s10836-016-5585-1
+UR  - http://dx.doi.org/10.1007/s10836-016-5585-1
+KW  - Adaptive test (AT), Test time reduction (TTR), Part average testing (PAT), Statistical process control (SPC)
+ER  - 
+
+TY  - THES
+AU  - Kim, Jingyu
+AU  - Mclean, James E
+TI  - The Effects of Computerized Adaptive Testing and Examinee Test Motivation
+      on Algebra Skills, Test Anxiety, and Attitudes
+PY  - 1995
+DA  - 1995
+AB  - The major purpose of the study was to investigate the effects of test
+      method and test motivation on estimated ability, test anxiety, and
+      attitudes toward computerized adaptive testing (CAT). This research also
+      examined the relationships between examinees' individual difference
+      variables and computerized adaptive test performance. Korean college
+      students (n = 208) were given the Math Aptitude Test, Math Self-Concept
+      Scale, Math Test Anxiety Scale, Computer Competence Instrument, Computer
+      Anxiety Scale, and Test Anxiety Inventory in the regular classroom. The
+      two groups (Motivated and Non-motivated) were randomly assigned by each
+      course section. The motivated group was given special test instructions.
+      The paper-and-pencil test (PPT) and the CAT algebra tests were given to
+      each group in random order (PPT-CAT or CAT-PPT) at the computer
+      laboratory. Students were given a 10-item paper test anxiety scale after
+      taking the PPT, and a 10-item computer test anxiety scale after taking the
+      CAT. Finally, they were given a paper-and-pencil version of the
+      Questionnaire on Computerized Adaptive Testing and Computer Experience
+      Questionnaire. The examinees' test motivation was the independent variable
+      in a multivariate analysis of covariance (MANCOVA). The six dependent
+      variables were two estimated algebra skills (PPT and CAT), two test
+      anxiety scores (PPT and CAT), and two CAT attitudes scores. The covariates
+      were the math aptitude and the test anxiety variables.This study
+      demonstrated the equivalence between the PPT and the CAT and found that
+      test motivation influenced improvement in estimated ability and reduction
+      in test anxiety, but did not affect CAT attitudes. It was found that math
+      aptitude and test motivation variables could be the most significant
+      predictors of computerized adaptive test performance.The findings suggest
+      that test motivation is an important factor to help explain students'
+      achievement. Further research should focus on how to enhance students'
+      motivation in classroom learning as well as on tests.
+M3  - Ph.D. Thesis
+N1  - AAI9535884
+ER  - 
+
+TY  - JOUR
+AU  - Brüggemann, Thomas
+AU  - Ludewig, Ulrich
+AU  - Lorenz, Ramona
+AU  - McElvany, Nele
+TI  - Effects of Mode and Medium in Reading Comprehension Tests on Cognitive
+      Load
+T2  - Comput. Educ.
+VL  - 192
+IS  - C
+PY  - 2023
+DA  - 2023/1
+PB  - Elsevier Science Ltd.
+CY  - GBR
+SN  - 0360-1315
+DO  - 10.1016/j.compedu.2022.104649
+UR  - https://doi.org/10.1016/j.compedu.2022.104649
+UR  - http://dx.doi.org/10.1016/j.compedu.2022.104649
+KW  - Screen reading, Cognitive load, Media in education, Mode effect, Elementary education
+ER  - 
+
+TY  - THES
+AU  - Powell, Zen-Hsiu Emily
+TI  - Test Anxiety and Test Performance under Computerized Adaptive Testing
+      Methods
+PY  - 1991
+DA  - 1991
+CY  - USA
+AB  - Research on computerized adaptive testing (CAT) has shown its potential to
+      estimate student achievement accurately and efficiently. However, there is
+      a paucity of research on the psychological impacts of CAT and how it may,
+      consequently, affect test performance. Three kinds of computerized
+      adaptive testing procedures were examined, in which items were selected in
+      one of three ways: (a) to match students' estimated achievement levels
+      (matched-selection), (b) from the item pool at random (random-selection),
+      and (c) according to student choice of item difficulty levels
+      (self-selection). Twenty-four graduate students were randomly assigned to
+      one of six possible testing orders formed by the three adaptive tests
+      while blocking on native and nonnative speakers. While at a computer,
+      students first received a description of adaptive testing methods,
+      followed by a 20-item pre-test anxiety measure. The three adaptive tests
+      were then given in the assigned random order. Immediately after each
+      adaptive test, students responded to a 10-item in-test anxiety scale.
+      Finally, they ranked their preferences and evaluated their performance on
+      each of the three tests. Written student comments and questions regarding
+      the adaptive testing methods were also solicited.No statistically
+      significant differences were found among mean student achievement scores,
+      nor among in-test anxiety means, under the three adaptive testing methods.
+      Students who reported higher pre-test anxiety were found to score
+      significantly higher in the matched-selection test. Students who preferred
+      the matched-selection and self-selection tests the most tended to be
+      significantly less anxious during those tests. However, instead of
+      students' actual test performance, it was their perception of how well
+      they did that was significantly correlated with their preference rankings
+      for the three tests. Though not central to this study, the
+      matched-selection tests required significantly fewer items to reach
+      mastery decisions than did the random-selection tests.
+M3  - Ph.D. Thesis
+N1  - AAI9134822
+ER  - 
+
+TY  - CPAPER
+AU  - Singh, Adit D
+TI  - Adaptive Test Methods for High IC Quality and Reliability
+T2  - Proceedings of the 2016 29th International Conference on VLSI Design and
+      2016 15th International Conference on Embedded Systems (VLSID)
+J2  - VLSID '16
+SP  - 21–22
+PY  - 2016
+DA  - 2016
+PB  - IEEE Computer Society
+AB  - The wide variation in process parameters now being observed in advanced
+      semiconductor processes can sometimes cause the electrical impact of
+      subtle manufacturing defects on observed signals during post manufacturing
+      tests to remain within the acceptable range set to ensure viable
+      manufacturing yields, thereby masking defect detection. Such undetected
+      manufacturing flaws can potentially cause functional failure under inputs
+      and/or operating conditions not tested during test; they can also behave
+      as latent reliability defects that "grow" over time to cause early life
+      failure. Test methodologies that target the "zero-defect" product quality
+      requirements being pushed by automotive and an increasing number of other
+      applications must address such test escapes by using innovative
+      statistical methods and adaptive testing because of the prohibitive costs
+      of extensive functional and stress/burn-in testing of all parts. The basic
+      idea here is similar to "zero-defect" security screening at airports:
+      parts that pass the initial tests but appear to be "suspect" is some
+      respect are separated out for more extensive tests. Also, additional
+      specialized tests are adaptively added to the test flow to target the
+      suspected failure mode; this requires both the feeding forward and feeding
+      back of results from different stages of the testing process. A few
+      seriously suspect but passing parts may even be discarded outright to
+      ensure quality, if the resulting yield loss is acceptable.Advanced
+      statistical screening methods fall into two broad categories: those that
+      exploit the statistics of defect distribution on wafers - e.g. passing die
+      in "bad" wafer neighborhoods are suspect parts; and those that exploit the
+      correlation in performance parameters in lots and wafers - passing die
+      that are performance outliers relative to matched parts are suspect. This
+      tutorial presents screening methodologies that span both these categories,
+      for both digital and analog parts. We illustrate their effectiveness using
+      results from a number of published experimental studies on production
+      circuits from IBM, Intel, LSI Logic, NXP Semiconductors, and MediaTek. The
+      examples discussed focus on studies where the tests target classical
+      stuck-at faults, as well as IDDQ testing, TDF and path delay timing tests,
+      and also the newly introduced cell aware fault models.Recently, adaptive
+      test methods have been more broadly defined to also include test time
+      reduction techniques based on dynamic test reordering, adaptive scan shift
+      frequency selection for each die, etc. The benefits and challenges of
+      employing these methods are also discussed.Several new companies have
+      emerged targeting the "Adaptive Test" space in recent years. Their
+      commercial offerings are also presented and discussed. Broadly, these aim
+      to provide the software infrastructure and tools needed to support the
+      feed forward and feedback sharing of results from the different test
+      insertions in the test flow for effective test adaptation and
+      optimization. These test results are then utilized by customizable
+      templates to generate automated test selection algorithms that can
+      dynamically apply the most effective test at each test insertion/stage in
+      the test flow, and also perform statistical binning once all testing is
+      complete.
+DO  - 10.1109/VLSID.2016.137
+C1  - USA
+UR  - https://doi.org/10.1109/VLSID.2016.137
+UR  - http://dx.doi.org/10.1109/VLSID.2016.137
+ER  - 

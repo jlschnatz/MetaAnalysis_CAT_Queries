@@ -1,0 +1,465 @@
+TY  - JOUR
+TI  - Computer Adaptive Test Development To Assess Students’ Psychology
+AU  - Thu Nguyet, Phan Thi
+AU  - Daud, Muslem
+KW  - Stress assessment ; Psichology test ; Computerized Adaptive Test
+PB  - UNIVERSITAS SERAMBI MEKKAH
+UR  - https://ojs.serambimekkah.ac.id/serambi-ilmu/article/view/2760
+LA  - eng
+PY  - 2021
+AB  - Stress becomes a significantly serious issue among university students and we need efficient tools to understand it more. The aim of present study is to develop a Computerized Adaptive Testing (CAT) to measure the mentioned stress, as pioneer project in Vietnam. In this vein, an item bank of 68 items has been constructed, which is based on Likert Polytomous Scales through five subdomains: behavior, academic performance, family, lecturer and finance. The sampling of the survey is large. It has assessed 2,085 students (704 males and 1,381 females). Multidimensional Random Coefficients Multinomial Logit (MRCML) Model is applied to develop Multidimensional Stress Scales and Computerized Adaptive Testing procedure. The result findings indicate that Multidimensional Random Coefficients Multinomial Logit (MRCML) can be used to develop new scale with psychometric properties. Indicated by various fit criteria MNSQ, standard errors, Z (t-test) implemented in software ConQuest. The subdomain has a good reliability (from .857 to .798). As respect to CATs, a simulated experiment based on the empirical data is applied to evaluate the performance of the proposed computerized adaptive testing. The standard error of the estimated stress proficiencies are reported in this study. The 68 items stress data appropriate fit the Multidimensional model applied.
+ER  - 
+TY  - JOUR
+TI  - Flexibility at the Price of Volatility: Concurrent Calibration in Multistage Tests in Practice Using a 2PL Model
+AU  - Laura A. Helbling
+AU  - Stéphanie Berger
+AU  - Angela Verschoor
+KW  - multistage test ; educational measurement ; high-stakes assessments ; item calibration ; item response theory ; Rasch model ; Education (General) ; L7-991
+PB  - Frontiers Media S.A.
+UR  - https://doi.org/10.3389/feduc.2021.679864
+LA  - EN
+PY  - 2021
+AB  - Multistage test (MST) designs promise efficient student ability estimates, an indispensable asset for individual diagnostics in high-stakes educational assessments. In high-stakes testing, annually changing test forms are required because publicly known test items impair accurate student ability estimation, and items of bad model fit must be continually replaced to guarantee test quality. This requires a large and continually refreshed item pool as the basis for high-stakes MST. In practice, the calibration of newly developed items to feed annually changing tests is highly resource intensive. Piloting based on a representative sample of students is often not feasible, given that, for schools, participation in actual high-stakes assessments already requires considerable organizational effort. Hence, under practical constraints, the calibration of newly developed items may take place on the go in the form of a concurrent calibration in MST designs. Based on a simulation approach this paper focuses on the performance of Rasch vs. 2PL modeling in retrieving item parameters when items are for practical reasons non-optimally placed in multistage tests. Overall, the results suggest that the 2PL model performs worse in retrieving item parameters compared to the Rasch model when there is non-optimal item assembly in the MST; especially in retrieving parameters at the margins. The higher flexibility of 2PL modeling, where item discrimination is allowed to vary, seems to come at the cost of increased volatility in parameter estimation. Although the overall bias may be modest, single items can be affected by severe biases when using a 2PL model for item calibration in the context of non-optimal item placement.
+ER  - 
+TY  - THES
+TI  - Entwicklung eines computeradaptiven Tests zur Erfassung von Stresserleben (Stress-CAT) ; Development of a Computerized Adaptive Test for Perceived Stress (Stress-CAT)
+AU  - Kocalevent, Rüya-Daniela
+KW  - computerized adaptive test ; item response theory ; stress ; ddc:150
+UR  - https://refubium.fu-berlin.de/handle/fub188/10827
+LA  - ger
+PY  - 2005
+AB  - TITELBLATT UND INHALTSVERZEICHNIS EINFUEHRUNG PSYCHOMETRISCHE ERFASSUNG VON STRESS IM SINNE DER FRAGEBOGENDIAGNOSTIK ITEM RESPONSE THEORY ENTWICKLUNG UND ANWENDUNG VON FRAGEBOEGEN ZUR ERFASSUNG VON PATIENT-REPORTED-OUTCOMES (PRO) METHODIK DER ENTWICKLUNG DES STRESS-CAT ERGEBNISSE DER ENTWICKLUNG DER ITEMBANK SIMULATIONSEXPERIMENTE DISKUSSION UND AUSBLICK LITERATURVERZEICHNIS ANHANG0 ANHANG1 ANHANG2 ANHANG3 ANHANG4 ANHANG5 ANHANG6 ; Die empirische Erfassung psychischer Merkmale erfolgt in der Regel mit Instrumenten, die auf der Grundlage der klassischen Testtheorie entwickelt wurden. Seit den 60-er Jahren bietet sich mit den Item-Response-Theorien (IRT) hierzu eine Alternative an, die verschiedene Vorteile verspricht. Auf ihrer Grundlage können u.a. computeradaptive Tests (CAT) entwickelt werden, welche die Auswahl der vorgelegten Items dem Antwortverhalten der Probanden anpassen und damit eine bessere Messgenauigkeit bei reduzierter Itemzahl versprechen. In der vorliegenden Arbeit wurde ein CAT zur Erfassung von Stresserleben entwickelt, um zu prüfen, ob sich die theoretischen Vorzüge der IRT auch in der praktischen Umsetzung wieder finden lassen. Hierfür wurden n=1092 Patienten untersucht, die an der Medizinischen Klinik mit Schwerpunkt Psychosomatik der Charité zwischen 06/02 und 04/03 im Rahmen der Routinediagnostik ein umfangreiches Set etablierter konventioneller Fragebögen (PSQ, TICS, ABF, SUB) computergestützt beantwortet hatten. Die Eigenschaften dieser Items wurden anhand ihrer residualen Korrelationen nach konfirmatorischer Faktorenanalyse (Mplus), ihrer Antwortkategorienfunktion (Testgraf) und ihrer Diskriminationsfähigkeit (Parscale) überprüft. Von insgesamt 126 Items verblieben 38 Items in der finalen Itembank in der Dimension erlebte Belastung und 31 Items in der Dimension Belastungsreaktion , die für die Anwendung eines Zwei-Parameter-Modells (Generalized-Partial-Credit-Model) als geeignet angesehen wurden. In Simulationsexperimenten zeigt sich, dass der Stress-CAT mit durchschnittlich 10 +/- 1,7 ...
+ER  - 
+TY  - JOUR
+TI  - Predictive Adaptive Test with Selective Weighted Bayesian Through Questions and Answers Patterns to Measure Student Competency Levels
+AU  - Matulatan, Tekad
+AU  - Bettiza, Martaleli
+AU  - Rathomi, Muhamad Radzi
+AU  - Ritha, Nola
+AU  - Hayaty, Nurul
+KW  - computer adaptive test ; Bayesian probabilistic ; selective weighted IRT ; pattern behavior
+PB  - Department of Computer Engineering, Engineering Faculty, Universitas Diponegoro
+UR  - https://jtsiskom.undip.ac.id/article/view/13131
+LA  - eng
+PY  - 2019
+AB  - Computer Assisted Testing (CAT) system in Indonesia has been commonly used but only to displaying random exam questions and unable to detect the maximum performance of the test participants. This research proposes a simple way with a good level of accuracy in identifying the maximum ability of test participants. By applying the Bayesian probabilistic in the selection of random questions with a weight of difficulties, the system can obtain optimal results from participants compared to sequential questions. The accuracy of the system measured on the choice of questions at the maximum level of the examinee alleged ability by the system, compared to the correct answer from participants gives an average accuracy of 75% compared to 33% sequentially. This technique allows tests to be carried out in a shorter time without repetition, which can affect the fatigue of the test participants in answering questions.
+ER  - 
+TY  - JOUR
+TI  - An Adaptive Test Analysis Based on Students' Motivation
+AU  - Sérgio R. I. YOSHIOKA
+AU  - Lucila ISHITANI
+KW  - computerized adaptive test ; stratified adaptive test ; item response theory ; motivation ; anxiety ; evaluation methodologies ; Special aspects of education ; LC8-6691
+PB  - Vilnius University
+UR  - https://doi.org/10.15388/infedu.2018.20
+LA  - EN
+PY  - 2018
+AB  - Computerized Adaptive Testing (CAT) is now widely used. However, inserting new items into the question bank of a CAT requires a great effort that makes impractical the wide application of CAT in classroom teaching. One solution would be to use the tacit knowledge of the teachers or experts for a pre-classification and calibrate during the execution of tests with these items. Thus, this research consists of a comparative case study between a Stratified Adaptive Test (SAT), based on the tacit knowledge of a teacher, and a CAT based on Item Response Theory (IRT). The tests were applied in seven Computer Networks courses. The results indicate that levels of anxiety expressed in the use of the SAT were better than those using the CAT, in addition to being simpler to implement. In this way, it is recommended the implementation of a SAT, where the strata are initially based on the tacit knowledge of the teacher and later, as a result of an IRT calibration.
+ER  - 
+TY  - JOUR
+TI  - Development of a computerized adaptive test to assess entrepreneurial personality
+AU  - Álvaro Postigo
+AU  - Marcelino Cuesta
+AU  - Ignacio Pedrosa
+AU  - José Muñiz
+AU  - Eduardo García-Cueto
+KW  - Entrepreneurial personality ; Evaluation ; Computerized adaptive test ; Adults ; Psychology ; BF1-990
+PB  - SpringerOpen
+UR  - https://doi.org/10.1186/s41155-020-00144-x
+LA  - EN
+PY  - 2020
+AB  - Abstract Background/objective Entrepreneurial behavior is of great importance nowadays owing to its significance in the generation of economic, social, personal, and cultural wellbeing. This behavior is influenced by cognitive and personality characteristics, as well as by socioeconomic and contextual factors. Entrepreneurial personality is made up of a set of psychological traits including self-efficacy, autonomy, innovation, internal locus of control, achievement motivation, optimism, stress tolerance, and risk-taking. The aim of this research is the development of a computerized adaptive test (CAT) to evaluate entrepreneurial personality. Method A bank of 120 items was created evaluating various aspects of the entrepreneurial personality. The items were calibrated with the Samejima Graded Response Model using a sample of 1170 participants (M age = 42.34; SDage = 12.96). Results The bank of items had an essentially unidimensional fit to the model. The CAT exhibited high accuracy for evaluating a wide range of θ scores, using a mean of 16 items with a very low standard error (M = 0.157). Relative validity evidence for the CAT was obtained with two additional tests of entrepreneurial personality (the Battery for the Assessment of the Enterprising Personality and the Measure of Enterpreneurial Tendencies and Abilities), with correlations of .908 and .657, respectively. Conclusions The CAT developed has appropriate psychometric properties for the evaluation of entrepreneurial people.
+ER  - 
+TY  - JOUR
+TI  - The Adaptive Test of Emotion Knowledge for 3-to 9-Year-Olds: Psychometric Properties and Validity
+AU  - Katharina Voltmer
+AU  - Maria von Salisch
+KW  - emotion knowledge ; children ; adaptive test ; development ; measure ; emotion understanding ; Psychiatry ; RC435-571
+PB  - Frontiers Media S.A.
+UR  - https://doi.org/10.3389/fpsyt.2022.901304
+LA  - EN
+PY  - 2022
+AB  - Children with an advanced knowledge of emotions are generally more socially competent, less likely to suffer from psychopathology, and more likely to succeed in school, both socially and academically. The assessment of children's emotion knowledge has thus gained importance in recent decades - both in psychiatric practice and in developmental and educational psychology. However, there is still a lack of appropriate instruments for assessing children's emotion knowledge in a performance test reliably, and for a broad age range. The Adaptive Test of Emotion Knowledge (ATEM 3–9) is a newly developed measure which encompasses seven components of emotion knowledge in 3–9-year-olds. The ATEM 3–9 is an adaptive test which uses skip and dropout rules to adjust for children's varying levels of knowledge. In addition to German, the ATEM has been translated into English and Hebrew. The German norming sample of the ATEM 3–9 comprises N = 882 (54% female, 21% bilingual) children between the ages of 3 and 9 years, who were divided into seven age groups. Test items, which are ordered according to the item response theory, showed a good fit to a seven-dimensional model reflecting the seven components. The internal consistencies of the dimensions are acceptable to good. Construct validity was examined by means of correlations with other measures of emotion knowledge, as well as measures on language skills and executive functions in a subsample. This resulted in medium size correlations in the expected directions. In addition, children with externalizing and internalizing disorders who were recruited in psychiatric in- and outpatient clinics showed deficits in various components of emotion knowledge when compared to their agemates in the norming sample. Overall, the ATEM 3–9 is well suited to measure individual components of emotion knowledge in children and to obtain a differentiated picture of the various aspects of emotion knowledge. The ATEM 3–9 thus supports the investigation of the development of social-emotional ...
+ER  - 
+TY  - JOUR
+TI  - Developing a Computerized Adaptive Test to Assess Stress in Chinese College Students
+AU  - Xueyin Tian
+AU  - Buyun Dai
+KW  - stress ; computerized adaptive test ; item response theory ; item bank ; measurement precision ; Psychology ; BF1-990
+PB  - Frontiers Media S.A.
+UR  - https://doi.org/10.3389/fpsyg.2020.00007
+LA  - EN
+PY  - 2020
+AB  - Stress is among the most prevalent problems in life; thus, measurement of stress is of great importance for disease prevention and evaluation. This work aims to develop a computerized adaptive test (CAT) application to measure stress (CAT-S) based on item response theory (IRT). Two types of analyses were performed. The first analysis was to meet the psychometric requirements of the CAT-S. A Paper and Pencil (P&P) test involving 226 items was developed based on eight stress-related scales, and 972 Chinese college students completed the test. The first seven scales were used to build the item bank, and the last scale (i.e., the Perceived Stress Scale, PSS) was used to determine the convergent validity of the CAT-S. With some statistical considerations, such as item fit, discrimination, differential item functioning (DIF), and the assumption of unidimensionality, the final item bank comprised 93 items. The second analysis was to simulate the CAT adaptively using the existing item response. A Bayesian method called Expected a Posterior method (EAP) was used to estimate θ. For the item selection strategy, the greatest item information was considered at each step. The stopping rule was determined by the fixed length (10, 11, 12, …, 20, and 93) or the prespecified level of measurement precision (standard errors of 0.3, 0.4, 0.5, 0.6, 0.7, and 0.8). Finally, the criterion validity was tested by using PSS as a criterion and analyzing the effect of CAT-S diagnosis with a receiver operating curve (ROC). The results showed that (1) the final stress item bank had good quality based on the psychometric evaluation, (2) the CAT-scores were highly correlated with the scores of the final item bank, (3) the scores of the P&P form of PSS were correlated with those of the CAT-S (r > 0.5), (4) the value of the area under the ROC curve (AUC) was greater than 0.7 under each stopping rule, and (5) the CAT-S needed only a small number of items to obtain a highly precise measure of stress. Therefore, the CAT-S presented the ...
+ER  - 
+TY  - THES
+TI  - Computergestütztes Adaptives Testen (CAT) von Angst entwickelt auf der Grundlage der Item Response Theorie (IRT) ; Computer assisted adaptive testing (CAT) of anxiety constructed on principles of the item response theory (IRT)
+AU  - Becker, Janine
+KW  - computer adaptive test (CAT) ; anxiety ; item response theory (IRT) ; ddc:150
+UR  - https://refubium.fu-berlin.de/handle/fub188/7233
+LA  - ger
+PY  - 2004
+AB  - 0\. Titelblatt und Inhaltsverzeichnis 1\. Einleitung 2\. Angst 3\. Die Item Response Theorie (IRT) 4\. Computerdiagnostik 5\. Die Entwicklung des Computergestützten Adaptiven Tests zur Angstmessung (Angst-CAT) 6\. Die Validierung des Angst-CATs 7\. Diskussion 8\. Literatur 9\. Anhang ; Die vorliegende Dissertation, welche im Rahmen eines DFG-geförderten Forschungsprojekts der Medizinischen Klinik mit Schwerpunkt Psychosomatik der Charité Berlin entstanden ist, hatte die Entwicklung und Validierung eines Computergestützten Adaptiven Tests (CAT) zur Angstmessung (Angst-CAT) zum Ziel. Die CAT-Entwicklung geschah auf der Grundlage einer "modernen" Testtheorie, namens "Item Response Theorie" (IRT), die gegenüber der herkömmlichen "Klassischen Test-Theorie" (KTT) eine Reihe von messtheoretischen Vorteilen bietet. Es sollte erprobt werden, ob sich diese Vorteile auch in der praktischen Anwendung bei der Konstruktion eines CATs im klinisch-psychologischen Bereich wieder finden lassen. CATs ermöglichen die individuelle Anpassung der Itemdarbietung an die Merkmalsausprägung einer Person. Dies geschieht, indem Testpersonen während der CAT-Bearbeitung nur die Items zur Beantwortung dargeboten werden, welche dem individuellem Ausprägungsniveau einer Person optimal entsprechen ("adaptives Testen"). Dadurch kann eine deutliche Verringerung der Testlänge bei einem gleichzeitig konstant hohen Messpräzisionsniveau erreicht werden. Die IRT-basierte Testentwicklung des Angst-CATs gliedert sich in drei Schritte: (1.) die inhaltliche Auswahl angstrelevanter Items, (2.) die sequentielle statistische Itemanalyse und -selektion dieser Items mit dem Ziel, die Items mit der besten psychometrischen Qualität zur Konstruktion einer Itembank zu nutzen und (3.) die Implementierung der Itembank in einen computergestützten adaptiven Itemabfolge-Algorithmus, der die Präsentation der Items und die Schätzung der individuellen Angstausprägung von Testpersonen ermöglicht. Die zur Itemanalyse und -selektion genutzten Items entstammen etablierten ...
+ER  - 
+TY  - JOUR
+TI  - Predictive Adaptive Test with Selective Weighted Bayesian Through Questions and Answers Patterns to Measure Student Competency Levels
+AU  - Tekad Matulatan
+AU  - Martaleli Bettiza
+AU  - Muhamad Radzi Rathomi
+AU  - Nola Ritha
+AU  - Nurul Hayaty
+KW  - computer adaptive test ; bayesian probabilistic ; selective weighted irt ; pattern behavior ; Electronic computers. Computer science ; QA75.5-76.95
+PB  - Diponegoro University
+UR  - https://doi.org/10.14710/jtsiskom.7.2.2019.83-88
+LA  - EN ; ID
+PY  - 2019
+AB  - Computer Assisted Testing (CAT) system in Indonesia has been commonly used but only to displaying random exam questions and unable to detect the maximum performance of the test participants. This research proposes a simple way with a good level of accuracy in identifying the maximum ability of test participants. By applying the Bayesian probabilistic in the selection of random questions with a weight of difficulties, the system can obtain optimal results from participants compared to sequential questions. The accuracy of the system measured on the choice of questions at the maximum level of the examinee alleged ability by the system, compared to the correct answer from participants gives an average accuracy of 75% compared to 33% sequentially. This technique allows tests to be carried out in a shorter time without repetition, which can affect the fatigue of the test participants in answering questions.
+ER  - 
+TY  - GEN
+TI  - datasheet1_Flexibility at the Price of Volatility: Concurrent Calibration in Multistage Tests in Practice Using a 2PL Model.zip
+AU  - Laura A. Helbling
+AU  - Stéphanie Berger
+AU  - Angela Verschoor
+KW  - Education ; Educational Psychology ; Physical Education and Development Curriculum and Pedagogy ; Education Assessment and Evaluation ; Educational Administration ; Management and Leadership ; Teacher Education and Professional Development of Educators ; Classical Greek and Roman History ; multistage test ; educational measurement ; high-stakes assessments ; item calibration ; item response theory ; Rasch model ; 2PL model
+UR  - https://doi.org/10.3389/feduc.2021.679864.s001
+PY  - 2021
+AB  - Multistage test (MST) designs promise efficient student ability estimates, an indispensable asset for individual diagnostics in high-stakes educational assessments. In high-stakes testing, annually changing test forms are required because publicly known test items impair accurate student ability estimation, and items of bad model fit must be continually replaced to guarantee test quality. This requires a large and continually refreshed item pool as the basis for high-stakes MST. In practice, the calibration of newly developed items to feed annually changing tests is highly resource intensive. Piloting based on a representative sample of students is often not feasible, given that, for schools, participation in actual high-stakes assessments already requires considerable organizational effort. Hence, under practical constraints, the calibration of newly developed items may take place on the go in the form of a concurrent calibration in MST designs. Based on a simulation approach this paper focuses on the performance of Rasch vs. 2PL modeling in retrieving item parameters when items are for practical reasons non-optimally placed in multistage tests. Overall, the results suggest that the 2PL model performs worse in retrieving item parameters compared to the Rasch model when there is non-optimal item assembly in the MST; especially in retrieving parameters at the margins. The higher flexibility of 2PL modeling, where item discrimination is allowed to vary, seems to come at the cost of increased volatility in parameter estimation. Although the overall bias may be modest, single items can be affected by severe biases when using a 2PL model for item calibration in the context of non-optimal item placement.
+ER  - 
+TY  - GEN
+TI  - table1_Flexibility at the Price of Volatility: Concurrent Calibration in Multistage Tests in Practice Using a 2PL Model.docx
+AU  - Laura A. Helbling
+AU  - Stéphanie Berger
+AU  - Angela Verschoor
+KW  - Education ; Educational Psychology ; Physical Education and Development Curriculum and Pedagogy ; Education Assessment and Evaluation ; Educational Administration ; Management and Leadership ; Teacher Education and Professional Development of Educators ; Classical Greek and Roman History ; multistage test ; educational measurement ; high-stakes assessments ; item calibration ; item response theory ; Rasch model ; 2PL model
+UR  - https://doi.org/10.3389/feduc.2021.679864.s002
+PY  - 2021
+AB  - Multistage test (MST) designs promise efficient student ability estimates, an indispensable asset for individual diagnostics in high-stakes educational assessments. In high-stakes testing, annually changing test forms are required because publicly known test items impair accurate student ability estimation, and items of bad model fit must be continually replaced to guarantee test quality. This requires a large and continually refreshed item pool as the basis for high-stakes MST. In practice, the calibration of newly developed items to feed annually changing tests is highly resource intensive. Piloting based on a representative sample of students is often not feasible, given that, for schools, participation in actual high-stakes assessments already requires considerable organizational effort. Hence, under practical constraints, the calibration of newly developed items may take place on the go in the form of a concurrent calibration in MST designs. Based on a simulation approach this paper focuses on the performance of Rasch vs. 2PL modeling in retrieving item parameters when items are for practical reasons non-optimally placed in multistage tests. Overall, the results suggest that the 2PL model performs worse in retrieving item parameters compared to the Rasch model when there is non-optimal item assembly in the MST; especially in retrieving parameters at the margins. The higher flexibility of 2PL modeling, where item discrimination is allowed to vary, seems to come at the cost of increased volatility in parameter estimation. Although the overall bias may be modest, single items can be affected by severe biases when using a 2PL model for item calibration in the context of non-optimal item placement.
+ER  - 
+TY  - JOUR
+TI  - When Teachers and Machines Achieve the Best Combination: A National Comparative Study of Face-to-face and Blended Teaching and Learning
+AU  - MARCONI, Cecilia
+AU  - GOYENECHE, Juan José
+AU  - COBO, Cristóbal
+KW  - Plan Ceibal ; Online learning ; LMS Engagement ; Learning Analytics ; Adaptive test ; Aprendizaje en línea ; índice de compromiso ; Analíticas de aprendizaje ; EDUCACIÓN A DISTANCIA ; EVALUACIÓN DE ESTUDIANTES ; APRENDIZAJE VIRTUAL
+PB  - IARIA, 2017
+UR  - https://hdl.handle.net/20.500.12381/418
+LA  - eng
+PY  - 2021
+AB  - This paper analyzes a national technology and education program in Uruguay known as Plan Ceibal. This work studies a sample of over 105,000 students from 4th, 5th, and 6th grade of public primary education in that country. This work aims to assess the impact of technology on teaching and learning of English. The method adopted is based on log-file data to compare two different modalities of English teaching (a face-to-face and a blended model). Additionally, we explored the correlation between a common measure of online engagement when using the Learning Management System (LMS) and an adaptive English assessment. We examined the impact of the teaching modalities on the students engagement and to what extent the engagement can contribute to enhance the student learning of English. This work documents the steps followed to elaborate the common measure of engagement to ensure transparency and its replicability (or improvement). A strength of this work, in comparison with previous studies, is the number of cases analyzed as well as the age of the target population (primary school students). The results indicate that engagement is affected by at least three key factors: socio-cultural context, teaching modality, and the role that teachers play. In fact, the higher the engagement level, the larger the proportion of students who achieve a better learning outcome in the assessment. This study shows that the use of LMS enhanced the learning experience when this tool is integrated within the ecosystem of the teaching and learning process. The findings of this study are consistent with previous works in the field, for instance: the relevance of the context as well as the role of teaching. Although the measurement of engagement can help to understand students performance noteworthy that as a stand-alone dimension it is a poor predictor of performance. To consider additional factors associated with learning is still necessary.
+ER  - 
+TY  - JOUR
+TI  - De l’adéquation d’un test informatisé en mathématiques pour élèves à haut potentiel présentant un fléchissement scolaire à l’âge de la puberté.
+AU  - Schiltz, Jang
+AU  - Schiltz, Lony
+KW  - achievement motivation ; computerized adaptive test ; blockade ; highly gifted students ; school failure ; Social & behavioral sciences ; psychology :: Education & instruction [H04] ; Sciences sociales & comportementales ; psychologie :: Education & enseignement [H04]
+UR  - http://orbilu.uni.lu/handle/10993/5640
+LA  - fr
+PY  - 2007
+AB  - The cognitive, emotional and motivational inhibition of highly gifted underachievers has become recently a topic of interest for researchers in clinical psychology and psychopathology. In this context the authors wanted to test whether a computerized adaptive test in mathematics could help unblocking the achievement motivation of those students. The main features and principles of construction of the test are described. The results of an exploratory study which was undertaken with 123 students belonging to the second class of a secondary school, 35 of which were highly gifted, stretches the interest of the integration of a CAT into the global treatment procedures of the motivational deficit of highly gifted underachievers.
+ER  - 
+TY  - THES
+TI  - New perspectives for the assessment of depression : development of an item bank and a screening instrument applying Rasch analysis and structural equation modelling
+AU  - Forkmann, Thomas
+KW  - info:eu-repo/classification/ddc/150 ; Depression ; Diagnostik ; Fragebogen ; Adaptiver Test ; Psychologie ; Computer-adaptiver Test ; Rasch-Analyse ; Strukturgleichungsmodellierung ; questionnaire ; computer adaptive test ; Rasch analysis
+PB  - Publikationsserver der RWTH Aachen University
+UR  - https://publications.rwth-aachen.de/record/50566
+LA  - eng
+PY  - 2008
+AB  - Depressive disorders are among the most prevalent mental disorders and cause substantial harm and affliction as well as reduced quality of life and impaired psychosocial functioning. Apart from the clinical interview, questionnaires represent the most established and economic diagnostic instruments for depression. A multiplicity of questionnaires for depression has been developed across the past decades. However, several studies demonstrated substantial psychometric shortcomings of many depression questionnaires. Thus, further enhancements in this area appear to be mandatory. The present thesis comprises three studies that aim at further improving the quality of diagnostic methods for depression by making the benefits of modern test theoretical approaches, particularly the Rasch-Model, one of the Item-Response-Theory-Models, available for clinical practice. The first study aimed at providing an ample pool of depression items – the basic requirement for item bank calibration. A thorough review of existing diagnostic tools for depression and relevant literature led to a comprehensive compilation of depression items. Based on the relevance judgments of 49 adept clinical experts 157 relevant items were identified. An additional major finding of Study One was that clinical psychologists tended to regard emotional/ cognitive items as more important than psychiatrists while the latter tended to judge somatic items as more relevant than clinical psychologists. However, across all experts items about somatic complaints were considered as not relevant. The second study was the core of the current thesis and – based on the item pool of Study One – aimed at developing a calibrated item bank for depression and evaluating its psychometric properties. Evaluation of Rasch Model fit, differential item functioning (DIF), dimensionality, local independence, item spread, item and person separation, and reliability resulted in a bank of 79 items that showed good psychometric properties. However, a minority of items showed DIF that ...
+ER  - 
+TY  - THES
+TI  - The empirical validity of an assessment battery for apprentice electrician students
+AU  - Van Stelten, Margaretha Aletta
+KW  - Academic performance ; Empirical validity ; Predictor ; Ability tests ; Learning potential ; Technical test battery ; Learning Potential Computerised Adaptive Test ; Selection ; Psychometric tests ; Apprentice electricians
+PB  - North-West University
+UR  - http://hdl.handle.net/10394/1896
+PY  - 2008
+AB  - Thesis (M.A. (Industrial Psychology))--North-West University, Potchefstroom Campus, 2008. ; Selection and selection procedures play a key role in the ability of organisations to compete successfully in the complex global and local environment. South Africa is experiencing a serious artisinal and technical skill shortage. Given the unemployment issues and the quest for people to fill the skill shortage gap it is important for organizations to find possible solutions to ensure that they stay competitive and effective in the labour market. Research suggests that at least 12 500 artisans need to be produced each year from 2006 to 2010 to meet the demand for skilled workers. To address above mentioned challenge organizations have to develop strategies to assist them to select individuals with the best chance to succeed in training. Unfortunately, the solution is not simple as organisations have a multitude of influences and pressures which affect their decisions regarding selection procedures. Selection of individuals is becoming an increasingly complex science as organisations have to select a capable and representative workforce. They must thus select candidates that are most likely to benefit from what is offered educationally, meet the requirements stipulated in South Africa's Labour legislation, and will perform most successfully in the specific trade. Bad practice can lead to costly litigation. The objectives of this mini-dissertation were to assess the empirical validity of the Technical Test Battery (TTB), as ability test and the Learning Potential Computerised Adaptive Test (LPCAT) as learning potential test as predictors of academic success of first year apprentice electrician students at a South African technical college serving a mining community. The study explored the current local employment issues that affect selection for training in the technical fields. The difference between the measurement of cognitive ability and learning potential were examined and the nature of the constructs of cognitive ability and that of learning potential were discussed. In the empirical study one of the objectives was to determine whether there was a relationship between the TTB and the LPCAT as two different predictors of the academic success of first yar apprentice electrician students. The difference in the empirical (predictive) validity of the two psychometric selection instruments, if only one of the tests as opposed to if both were used in combination, were examined. Another objective was to determine if there were any differences regarding the scores on the TTB and LPCAT of students from the designated group as opposed to that of students from non-designated groups. Finally this study explored whether the TTB and LPCAT were valid predictors to be used as selection instruments for apprentice electrician students in the South African context The research method consisted of a literature review and an empirical study. The empirical validity of the two predictor tests was validated in terms of the accuracy with which the selection instruments predicted the students' future performance. This research can be categorized as descriptive quantitative research. The TTB and LPCAT scores of a sample of 89 selected apprentice electricians were compared with the number of attempts they used to pass a phase test. Data was analysed by means of descriptive statistics. Pearsons Product Moment Correlation Coefficient, t-tests, ANOVAs as well as discriminant analysis were also used to reach the research objective. Statistically significant relationships were found between the predictor and criterion variables. The results confirm that the TTB and LPCAT are indeed empirical valid tests that can be used in the selection of apprentice electricians. ; Masters
+ER  - 
+TY  - JOUR
+TI  - Escala de Desesperanza de Beck (BHS): ventajas de una administración adaptativa ; Beck Hopelessness Scale (BHS): advantages of an adaptive administration
+AU  - Abal, Facundo Juan Pablo
+AU  - Sánchez González, Juan Franco
+AU  - Lozzia, Gabriela Susana
+AU  - Attorresi, Horacio Félix
+KW  - Hopelessness ; Beck Hopelessness Scale ; Computerized adaptive test ; Two-parameter logistic model ; Item Response Theory ; Psychometry ; Desesperanza ; Escala de Desesperanza de Beck ; Test adaptativo informatizado ; Modelo logístico de dos parámetros ; Teoría de respuesta al ítem ; Psicometría
+PB  - ĬbērAM
+UR  - https://repositorio.ibero.edu.co/handle/001/3903
+LA  - spa
+PY  - 2021
+ER  - 
+TY  - THES
+TI  - Thermal Issues in Testing of Advanced Systems on Chip
+AU  - Aghaee Ghaleshahi, Nima
+KW  - SoC test ; test scheduling ; Adaptive test ; Temperature awareness ; Process variation ; Thermal simulation ; 3D stacked IC (3DSIC) test ; Burn-in ; Temperature gradients ; Temperature Cycling Test ; Test Ordering ; Electrical Engineering ; Electronic Engineering ; Information Engineering ; Elektroteknik och elektronik
+PB  - Linköpings universitet, Institutionen för datavetenskap ; Linköpings universitet, Tekniska fakulteten ; Linkoping University
+UR  - http://urn.kb.se/resolve?urn=urn:nbn:se:liu:diva-120798
+LA  - eng
+PY  - 2015
+AB  - Many cutting-edge computer and electronic products are powered by advanced Systems-on-Chip (SoC). Advanced SoCs encompass superb performance together with large number of functions. This is achieved by efficient integration of huge number of transistors. Such very large scale integration is enabled by a core-based design paradigm as well as deep-submicron and 3D-stacked-IC technologies. These technologies are susceptible to reliability and testing complications caused by thermal issues. Three crucial thermal issues related to temperature variations, temperature gradients, and temperature cycling are addressed in this thesis. Existing test scheduling techniques rely on temperature simulations to generate schedules that meet thermal constraints such as overheating prevention. The difference between the simulated temperatures and the actual temperatures is called temperature error. This error, for past technologies, is negligible. However, advanced SoCs experience large errors due to large process variations. Such large errors have costly consequences, such as overheating, and must be taken care of. This thesis presents an adaptive approach to generate test schedules that handle such temperature errors. Advanced SoCs manufactured as 3D stacked ICs experience large temperature gradients. Temperature gradients accelerate certain early-life defect mechanisms. These mechanisms can be artificially accelerated using gradient-based, burn-in like, operations so that the defects are detected before shipping. Moreover, temperature gradients exacerbate some delay-related defects. In order to detect such defects, testing must be performed when appropriate temperature-gradients are enforced. A schedule-based technique that enforces the temperature-gradients for burn-in like operations is proposed in this thesis. This technique is further developed to support testing for delay-related defects while appropriate gradients are enforced. The last thermal issue addressed by this thesis is related to temperature cycling. Temperature cycling test procedures are usually applied to safety-critical applications to detect cycling-related early-life failures. Such failures affect advanced SoCs, particularly through-silicon-via structures in 3D-stacked-ICs. An efficient schedule-based cycling-test technique that combines cycling acceleration with testing is proposed in this thesis. The proposed technique fits into existing 3D testing procedures and does not require temperature chambers. Therefore, the overall cycling acceleration and testing cost can be drastically reduced. All the proposed techniques have been implemented and evaluated with extensive experiments based on ITC’02 benchmarks as well as a number of 3D stacked ICs. Experiments show that the proposed techniques work effectively and reduce the costs, in particular the costs related to addressing thermal issues and early-life failures. We have also developed a fast temperature simulation technique based on a closed-form solution for the temperature equations. Experiments demonstrate that the proposed simulation technique reduces the schedule generation time by more than half.
+ER  - 
+TY  - GEN
+TI  - РЕШЕНИЕ ПРОБЛЕМЫ УЧЕБНОЙ АДАПТАЦИИ СТУДЕНТОВ ПЕРВОГО КУРСА К ОБУЧЕНИЮ В ФИЛИАЛЕ ТЕХНИЧЕСКОГО ВУЗА
+AU  - ПОПЦОВ АНДРЕЙ НИКОЛАЕВИЧ
+AU  - ХАМАТНУРОВА ЕЛЕНА НИКОЛАЕВНА
+KW  - УЧЕБНАЯ АДАПТАЦИЯ,МОДУЛЬНО-РЕЙТИНГОВАЯ СИСТЕМА,ИНФОРМАЦИОННО-КОММУНИКАЦИОННЫЕ ТЕХНОЛОГИИ,ОБУЧЕНИЕ ФИЗИКЕ,ЭЛЕКТРОННЫЙ УЧЕБНО-МЕТОДИЧЕСКИЙ КОМПЛЕКС,УЧЕБНЫЙ МОДУЛЬ,АДАПТИВНЫЙ ТЕСТ,РЕШЕНИЕ ЗАДАЧ,АЛГОРИТМ,ПЛАН ДЕЯТЕЛЬНОСТИ,ADAPTATION,INSTRUCTION IN PHYSICS,MODULAR AND RATING SYSTEM,INFORMATION AND COMMUNICATION TECHNOLOGIES,ELECTRONIC EDUCATIONAL-METHODICAL COMPLEX,EDUCATIONAL MODULE,ADAPTIVE TEST,SOLUTION OF TASKS,ALGORITHM,PLAN OF ACTIVITY
+PB  - Общество с ограниченной ответственностью «Издательский центр «Науковедение»
+UR  - http://cyberleninka.ru/article/n/reshenie-problemy-uchebnoy-adaptatsii-studentov-pervogo-kursa-k-obucheniyu-v-filiale-tehnicheskogo-vuza
+PY  - 2015
+AB  - У молодёжи, из малых городов и сельской местности, не всегда есть возможность обучаться в крупных вузах, многие из них обучаются в филиалах вузов. Поступление в высшее учебное заведение является переходом в новую систему образования, новую социальную среду, что определяет необходимость адаптации первокурсников непосредственно к учебному процессу. В статье рассмотрены социальные, педагогические и психологические факторы (как в позитивном аспекте, так и в негативном), влияющие на педагогический процесс и содержание методической системы учебной адаптации первокурсников в условиях филиала вуза. В условиях работы по программам ФГОС ВПО адаптация в вузе возможна путем индивидуализации и объективизации процесса преподавания отдельных предметов, в том числе физики. Предложены пути решения проблемы учебной адаптации первокурсников на примере обучения физике в филиале технического вуза. ; Young people living in small towns and in rural areas, do not always have the possibility to enter major universities, many of them study in their branches. Admission to University is accompanied by the transition to a new educational system, new social environment, which causes need for adaptating first-year students to the educational process. The article considers social, pedagogical and psychological factor, both positive and negative affecting the pedagogical process and the content of systematic adaptation while educating first-year students in the conditions of a University branch. Under conditions of realizing federal state educational standards of higher professional education it is estimated that adaptation is possible by means of individualizing instructions and implementing objective approach into teaching all courses including Physics. The article offers some ways of solving the problem of educational adaptation given on the basis of teaching first-year students Physics at a Polytechnics’ branch.
+ER  - 
+TY  - THES
+TI  - Response of Unsaturated Soils Under Monotonic and Dynamic Loading over Moderate Suction States
+AU  - Banerjee, Aritra
+KW  - Unsaturated soils ; Liquefaction ; Resilient modulus ; Shear strength ; Multistage test
+UR  - http://hdl.handle.net/10106/26940
+LA  - en_US
+PY  - 2017
+AB  - The understanding of the mechanical behavior of the unsaturated soils has been significantly enhanced due to the recent advancement of technology and modifications to the conventional testing devices. However, the implementation of the concepts of unsaturated soil has lagged, mainly due to the risks associated with the development of civil infrastructure based on practically untested theories and the limited reliable prediction methods for compacted, expansive, residual, and collapsible soils, which requires reliable and comprehensive experimental data. Moreover, the tests on unsaturated soils are enormously time consuming and often exorbitantly expensive, which further hinders the use of unsaturated soil mechanics in practical applications. Additionally, the liquefaction of cohesionless soils has predominantly been considered only for saturated soils. However, the soils with high degree of saturation, yet partially saturated, which are mostly near the ground surface and have low overburden pressure, may liquefy during earthquakes. Since plenty of unsaturated cohesionless soils are present near high seismic activity zones, the susceptibility of these soils to liquefy needs to be studied. Addressing these problems has been the main objective of the present dissertation research. The characteristics of compacted soils were studied by performing an elaborate series of suction-controlled monotonic triaxial tests on compacted silty soil specimens following the hydrostatic compression (HC) and the conventional triaxial compression (CTC) stress paths at varying net mean stresses and matric suction levels. The multistage triaxial tests were performed on the silty soil specimens at varying suction levels using a new approach to address the issues related to soil variability and to significantly reduce the testing time while maintaining the reliability of the test results. The Barcelona Basic Model (BBM) framework was used to reproduce experimental test results both from suction-controlled single-stage and multistage triaxial tests. Hence the BBM was indirectly used to demonstrate the utility of multistage triaxial tests in replicating test results or predictions similar to single-stage triaxial testing. The influence of suction, unit weight, and wetting and drying of the compacted specimens of silty soil on the resilient modulus was also studied by performing a comprehensive series of suction-controlled repeated load triaxial (RLT) tests over a wide range of suction to address the issue of repeatability of RLT tests. In this dissertation research, the tendency of the soil in unsaturated condition to liquefy was studied by performing cyclic triaxial tests on suction-equilibrated silty sand specimens. A series of cyclic triaxial tests were performed in undrained conditions at varying suction states and cyclic stress ratios to assess the liquefaction potential of the soil at varying relative densities and matric suction levels. The findings from this dissertation research would assist in the development of future constitutive models for predicting the response of dilatant soils in unsaturated conditions subjected to monotonic and dynamic loading.
+ER  - 
+TY  - CONF
+TI  - Measuring the mathematics abilities of students with special education needs through a computer-based multilevel adaptive test
+AU  - EMANUELA BOTTA
+KW  - Adaptive test ; MST test ; mathematics ; special educational needs
+PB  - Associazione per Scuola Democratica ; place:Roma
+UR  - http://hdl.handle.net/11573/1596455
+LA  - eng
+PY  - 2021
+AB  - Papers in this third volume deals with the Covid-19 pandemic which is having an enormous impact on education systems worldwide. Policy makers, teachers, school managers, parents and students have been called to the reinvent their way of ‘doing school’. At the same time, the governance of the education system and schools’ organizations have been exposed to unprecedented tensions. The pandemic emergency has been a lens revealing intersections and structural tensions among various level and actors of the education system, but also allowing opportunities of changes thanks to the exogenous shock. At the same time, it must be considered that the emergency is interacting on pre-existing inequalities and contradictions. Higher education systems have been affected too: in constant evolution due to constant transformations of society and changed functions of knowledge, universities have undergone a structural change along with pandemic times. Simultaneously, the growing relevance of knowledge for the economic development of the capitalistic system has profoundly affected higher education systems, characterized by the neo-liberal approach which his subject of increasing critical analysis. ; In this paper we present results on the estimation of mathematics skills of Italian grade 10 students with special educational needs. The estimation was carried out by means of a com-puter based multilevel adaptive test 1 - 3 - 3 (MST) constructed within the framework of a doctoral research in Social, Developmental and Educational Research Psychology. An item bank was used to construct the MST test. Verification of the unidimensionality of the bank was done through exploratory factor analyses (EFA) and analysis of model fit indices with Rasch's model (Rasch, 1960) being calibrated. Verification of the best measurement properties of the test compared to a linear test was performed by comparing information functions. It is shown that this type of test is able to provide estimates of the ability of students with a con-siderable level of ...
+ER  - 
+TY  - JOUR
+TI  - Simulating Computer Adaptive Testing With the Mood and Anxiety Symptom Questionnaire
+AU  - Flens, G.
+AU  - Smits, N.
+AU  - Carlier, I.
+AU  - Hemert, A.M. van
+AU  - Beurs, E. de
+KW  - computer adaptive test ; clinical assessment ; Mood and Anxiety Symptom Questionnaire ; item response theory
+UR  - https://hdl.handle.net/1887/112034
+LA  - en
+PY  - 2016
+AB  - Stress-related psychiatric disorders across the life span
+ER  - 
+TY  - JOUR
+TI  - Development of a Computerized Adaptive Test for Anxiety Based on the Dutch-Flemish Version of the PROMIS Item Bank
+AU  - Flens, G.
+AU  - Smits, N.
+AU  - Terwee, C.B.
+AU  - Dekker, J.
+AU  - Huijbrechts, I.
+AU  - Spinhoven, P.
+AU  - Beurs, E. de
+KW  - assessment ; anxiety ; clinical subjects ; general population ; item response theory ; computerized adaptive test ; PROMIS
+UR  - https://hdl.handle.net/1887/122646
+LA  - en
+PY  - 2019
+AB  - We used the Dutch-Flemish version of the USA PROMIS adult V1.0 item bank for Anxiety as input for developing a computerized adaptive test (CAT) to measure the entire latent anxiety continuum. First, psychometric analysis of a combined clinical and general population sample (N = 2,010) showed that the 29-item bank has psychometric properties that are required for a CAT administration. Second, a post hoc CAT simulation showed efficient and highly precise measurement, with an average number of 8.64 items for the clinical sample, and 9.48 items for the general population sample. Furthermore, the accuracy of our CAT version was highly similar to that of the full item bank administration, both in final score estimates and in distinguishing clinical subjects from persons without a mental health disorder. We discuss the future directions and limitations of CAT development with the Dutch-Flemish version of the PROMIS Anxiety item bank. ; Stress-related psychiatric disorders across the life span
+ER  - 
+TY  - THES
+TI  - Entwicklung eines computeradaptiven Tests zur Erfassung von Stresserleben (Stress-CAT) ... : Development of a Computerized Adaptive Test for Perceived Stress (Stress-CAT) ...
+AU  - Kocalevent, Rüya-Daniela
+KW  - computerized adaptive test ; item response theory ; stress ; 100 Philosophie und Psychologie150 Psychologie150 Psychologie
+PB  - Freie Universität Berlin
+UR  - https://dx.doi.org/10.17169/refubium-15025
+PY  - 2005
+AB  - TITELBLATT UND INHALTSVERZEICHNIS EINFUEHRUNG PSYCHOMETRISCHE ERFASSUNG VON STRESS IM SINNE DER FRAGEBOGENDIAGNOSTIK ITEM RESPONSE THEORY ENTWICKLUNG UND ANWENDUNG VON FRAGEBOEGEN ZUR ERFASSUNG VON PATIENT-REPORTED-OUTCOMES (PRO) METHODIK DER ENTWICKLUNG DES STRESS-CAT ERGEBNISSE DER ENTWICKLUNG DER ITEMBANK SIMULATIONSEXPERIMENTE DISKUSSION UND AUSBLICK LITERATURVERZEICHNIS ANHANG0 ANHANG1 ANHANG2 ANHANG3 ANHANG4 ANHANG5 ANHANG6 ... : Die empirische Erfassung psychischer Merkmale erfolgt in der Regel mit Instrumenten, die auf der Grundlage der klassischen Testtheorie entwickelt wurden. Seit den 60-er Jahren bietet sich mit den Item-Response-Theorien (IRT) hierzu eine Alternative an, die verschiedene Vorteile verspricht. Auf ihrer Grundlage können u.a. computeradaptive Tests (CAT) entwickelt werden, welche die Auswahl der vorgelegten Items dem Antwortverhalten der Probanden anpassen und damit eine bessere Messgenauigkeit bei reduzierter Itemzahl versprechen. In der vorliegenden Arbeit wurde ein CAT zur Erfassung von Stresserleben entwickelt, um zu prüfen, ob sich die theoretischen Vorzüge der IRT auch in der praktischen Umsetzung wieder finden lassen. Hierfür wurden n=1092 Patienten untersucht, die an der Medizinischen Klinik mit Schwerpunkt Psychosomatik der Charité zwischen 06/02 und 04/03 im Rahmen der Routinediagnostik ein umfangreiches Set etablierter konventioneller Fragebögen (PSQ, TICS, ABF, SUB) computergestützt beantwortet ...
+ER  - 
+TY  - JOUR
+TI  - Comparison of two test methods for VIS: paper-pencil test and CAT
+AU  - Şenel, Selma
+AU  - Kutlu, Ömer
+KW  - Computerised Adaptive Test (CAT) ; Visually Impaired Students (VIS) ; Test Accommodation ; Listening Comprehension Skill ; Reader-Assisted Test
+PB  - Routledge Journals
+UR  - https://hdl.handle.net/20.500.12462/6036
+LA  - eng
+PY  - 2018
+AB  - Şenel, Selma (Balikesir Author) ; This paper examines listening comprehension skills of visually impaired students (VIS) using computerised adaptive testing (CAT) and reader-assisted paper-pencil testing (raPPT) and student views about them. Explanatory mixed method design was used in this study. Sample is comprised of 51 VIS, in 7th and 8th grades. 9 of these students were interviewed for determining student views about tests. Results indicated that scores obtained from CAT are significantly lower than scores obtained from raPPT. Additionally, a positive and high correlation was found between scores of CAT and raPPT. This result suggests that similar ability estimations were made by CAT and raPPT. Another finding is CAT made more reliable predictions, and was completed in shorter duration using fewer items. In qualitative part, student views were gathered through interviews and content analysis revealed three themes as technical features, test features, and psychological effects. In general, students reported positive views about CAT. VIS prefer CAT due to its listening/control options, shorter test durations, clarity of reading, and fairness of test, elimination of dependency to reader. Study provides implications for test developers and test-users to consider CAT as a multi-accommodation for VIS through its advantages.
+ER  - 
+TY  - THES
+TI  - Computergestütztes Adaptives Testen (CAT) von Angst entwickelt auf der Grundlage der Item Response Theorie (IRT) ... : Computer assisted adaptive testing (CAT) of anxiety constructed on principles of the item response theory (IRT) ...
+AU  - Becker, Janine
+KW  - computer adaptive test CAT ; anxiety ; item response theory IRT ; 100 Philosophie und Psychologie150 Psychologie150 Psychologie
+PB  - Freie Universität Berlin
+UR  - https://dx.doi.org/10.17169/refubium-11432
+PY  - 2004
+AB  - 0\. Titelblatt und Inhaltsverzeichnis 1\. Einleitung 2\. Angst 3\. Die Item Response Theorie (IRT) 4\. Computerdiagnostik 5\. Die Entwicklung des Computergestützten Adaptiven Tests zur Angstmessung (Angst-CAT) 6\. Die Validierung des Angst-CATs 7\. Diskussion 8\. Literatur 9\. Anhang ... : Die vorliegende Dissertation, welche im Rahmen eines DFG-geförderten Forschungsprojekts der Medizinischen Klinik mit Schwerpunkt Psychosomatik der Charité Berlin entstanden ist, hatte die Entwicklung und Validierung eines Computergestützten Adaptiven Tests (CAT) zur Angstmessung (Angst-CAT) zum Ziel. Die CAT-Entwicklung geschah auf der Grundlage einer "modernen" Testtheorie, namens "Item Response Theorie" (IRT), die gegenüber der herkömmlichen "Klassischen Test-Theorie" (KTT) eine Reihe von messtheoretischen Vorteilen bietet. Es sollte erprobt werden, ob sich diese Vorteile auch in der praktischen Anwendung bei der Konstruktion eines CATs im klinisch-psychologischen Bereich wieder finden lassen. CATs ermöglichen die individuelle Anpassung der Itemdarbietung an die Merkmalsausprägung einer Person. Dies geschieht, indem Testpersonen während der CAT-Bearbeitung nur die Items zur Beantwortung dargeboten werden, welche dem individuellem Ausprägungsniveau einer Person optimal entsprechen ("adaptives Testen"). ...
+ER  - 
+TY  - JOUR
+TI  - The Effect of ratio of items indicating differential item functioning on computer adaptive and multi-stage tests
+AU  - ERDEM KARA, Başak
+AU  - DOĞAN, Nuri
+KW  - Computer adaptive test;Multi-stage test;Differential item functioning ; Eğitim ; Eğitim Araştırmaları ; Education and Educational Research
+PB  - İzzet KARA
+UR  - https://dergipark.org.tr/tr/pub/ijate/issue/72220/1105769
+LA  - eng
+PY  - 2022
+AB  - Recently, adaptive test approaches have become a viable alternative to traditional fixed-item tests. The main advantage of adaptive tests is that they reach desired measurement precision with fewer items. However, fewer items mean that each item has a more significant effect on ability estimation and therefore those tests are open to more consequential results from any flaw in an item. So, any items indicating differential item functioning (DIF) may play an important role in examinees&#039; test scores. This study, therefore, aimed to investigate the effect of DIF items on the performance of computer adaptive and multi-stage tests. For this purpose, different test designs were tested under different test lengths and ratios of DIF items using Monte Carlo simulation. As a result, it was seen that computer adaptive test (CAT) designs had the best measurement precision over all conditions. When multi-stage test (MST) panel designs were compared, it was found that the 1-3-3 design had higher measurement precision in most of the conditions; however, the findings were not enough to say that 1-3-3 design performed better than the 1-2-4 design. Furthermore, CAT was found to be the least affected design by the increase of ratio of DIF items. MST designs were affected by that increment especially in the 10-item length test. ; Recently, adaptive test approaches have become a viable alternative to traditional fixed-item tests. The main advantage of adaptive tests is that they reach desired measurement precision with fewer items. However, fewer items mean that each item has a more significant effect on ability estimation and therefore those tests are open to more consequential results from any flaw in an item. So, any items indicating differential item functioning (DIF) may play an important role in examinees&#039; test scores. This study, therefore, aimed to investigate the effect of DIF items on the performance of computer adaptive and multi-stage tests. For this purpose, different test designs were tested under ...
+ER  - 
+TY  - GEN
+TI  - Using a Computer-adaptive Test Simulation to Investigate Test Coordinators' Perceptions of a High-stakes Computer-based Testing Program
+AU  - Hogan, Tiffany
+KW  - Computer-adaptive test ; case study ; computerized classification test ; computer-based testing ; test coordinators' perceptions of computer-based tests
+PB  - ScholarWorks @ Georgia State University
+UR  - https://scholarworks.gsu.edu/eps_diss/106
+PY  - 2014
+AB  - This case study examined the efficiency and precision of computer classification and adaptive testing to elicit responses from test coordinators on implementing a high-stakes computer-based testing. Test coordinators from five elementary schools located in a Georgia school district participated in the study. The school district administered state-made, high-stakes tests using paper and pencil; locally developed tests via the computer or paper and pencil. A post-hoc simulation program, Comprehensive Simulation of Computerized Adatpive Testing, used 586 student item responses to produce results with a variable termination point and classification termination point. Results from the simulation were analyzed and used in the case study to elicit interview responses from test coordinators. The photographs of computer-labs and test schedule documents were collected and analyzed to validate school test coordinators' responses. Test coordinators responded positively to the efficiency and precision of simulation results. Some test coordinators preferred the use of computer-adaptive tests for diagnostic purposes only. Test coordinators experiences focused on the security, the emotions, and the management of testing. The findings of this study will benefit those interested in implementing a high-stakes, computer-based testing program by recommending a simulation study be conducted and feedback by solicited from test coordinators prior to an operational test administration.
+ER  - 
+TY  - GEN
+TI  - Cross-National Effectiveness of Cognitive/Affective, Demographic, and Skills Selection Criteria
+AU  - Wang, Wei
+KW  - personnel selection ; personality traits ; job competencies ; person-organization fit ; data envelopment analysis ; Naïve Bayesian analysis ; computer adaptive test
+PB  - Research Information Online
+UR  - https://rio.tamiu.edu/etds/27
+PY  - 2018
+AB  - Although high unemployment rates exist in many countries of the world, companies continue to struggle to hire candidates whose personality traits and competencies match their needs. High unemployment rates and a global talent shortage can be seen as a fascinating contradiction that merits future research. This study investigates suitable personnel selection methods that assist recruiters in seeking the right person with the potential to contribute most to a business. It consolidates theories about personnel selection in a cross-national setting and link them with specific personality traits, job competencies, and person-organization fit (P-O fit) that could predict and enhance employee outcomes. The Most Valuable Employees and Average Contribution Employees can be classified by using Data Envelopment analysis (DEA) and Naïve Bayesian analysis based on a set of standards. Using analysis of variance (ANOVA), different aspects of personality traits, employee competencies, P-O fit, and biographic information, these characteristics are found to influence the key workplace outcomes in the United States and China. In both countries, the three dimensions in the HEXACO personality inventory (Honesty-Humility, Conscientiousness, and Openness to Experience) are found to significantly effect the workplace outcomes. In addition, job competencies, and P-O fit are also proven to be significantly associated with the key work outcomes in these two countries. There are several limitations in this study associated with a relative small number of primary data collected from them. However, this study employs a web-based dynamic survey system to save time, improve the response rate, and provide assessment accuracy. Furthermore, DEA and Naïve Bayesian classifiers help to separate the Most Valuable Employees from other employees, which may have practical significance for both researchers and practitioners.
+ER  - 
+TY  - JOUR
+TI  - The study of the effect of item parameter drift on ability estimation obtained from adaptive testing under different conditions
+AU  - ŞAHİN KÜRŞAD, Merve
+AU  - ÇOKLUK-BÖKEOGLU, Ömay
+AU  - ÇIKRIKÇI, Nükhet
+KW  - Item parameter drift;Computer adaptive test;Measurement precision;Test information function ; Eğitim ; Eğitim Araştırmaları ; Education and Educational Research
+PB  - İzzet KARA
+UR  - https://dergipark.org.tr/tr/pub/ijate/issue/72220/1070848
+LA  - eng
+PY  - 2022
+AB  - Item parameter drift (IPD) is the systematic differentiation of parameter values of items over time due to various reasons. If it occurs in computer adaptive tests (CAT), it causes errors in the estimation of item and ability parameters. Identification of the underlying conditions of this situation in CAT is important for estimating item and ability parameters with minimum error. This study examines the measurement precision of IPD and its impacts on the test information function (TIF) in CAT administrations. This simulation study compares sample size (1000, 5000), IPD size (0.00 logit, 0.50 logit, 0.75 logit, 1.00 logit), percentage of items containing IPD (0%, 5%, 10%, 20%), three time points and item bank size (200, 500, 1000) conditions. To examine the impacts of the conditions on ability estimations; measurement precision, and TIF values were calculated, and factorial analysis of variance (ANOVA) for independent samples was carried out to examine whether there were any differences between estimations in terms of these factors. The study found that an increase in the number of measurements using item bank with IPD items results in a decrease in measurement precision and the amount of information the test provides. Factorial ANOVA for independent samples revealed that measurements precision and TIF differences are mostly statistically significant. Although all IPD conditions negatively affect measurement precision and TIF, it has been shown that sample size and item bank size generally do not have an increasing or decreasing effect on these factors. ; Item parameter drift (IPD) is the systematic differentiation of parameter values of items over time due to various reasons. If it occurs in computer adaptive tests (CAT), it causes errors in the estimation of item and ability parameters. Identification of the underlying conditions of this situation in CAT is important for estimating item and ability parameters with minimum error. This study examines the measurement precision of IPD and its impacts on the test ...
+ER  - 
+TY  - GEN
+TI  - Effects of Test Mode and Test Anxiety ...
+AU  - Ober, Teresa
+KW  - Educational Methods ; Educational Psychology ; Education ; Quantitative Psychology ; Cognitive Psychology ; Social and Behavioral Sciences ; Psychology ; FOS Psychology ; Educational Assessment, Evaluation, and Research ; computerized adaptive test ; statistics education ; STEM education ; test anxiety ; test fairness ; test mode ; test validity
+PB  - Open Science Framework
+UR  - https://dx.doi.org/10.17605/osf.io/r7sjw
+PY  - 2022
+AB  - The primary aim of this project is to compare subjective assessments of performance, difficulty, and effort of participants randomly assigned to an adaptive or non-adaptive computerized test of statistics knowledge. We are interested in determining whether the test mode (adaptive v. non-adaptive) has an effect on students’ test anxiety and performance. Additional measures will be administered to evaluate the extent that attitudes towards math, which provides an estimate of math anxiety. In the proposed project, we aim to quantitatively investigate the extent that the strength of the association between test mode in relation to both test anxiety (state; i.e., anxiety immediately after completing the test) and test performance differs between participants on the basis of gender or minority status. We further aim to examine whether this moderation is mediated by students’ general test anxiety (trait; i.e., general test anxiety). Further work on test mode and test anxiety may be used to inform better assessment ...
+ER  - 
+TY  - JOUR
+TI  - Predictors of health-related quality of life in chronically ill children and adolescents over time
+AU  - D Barthel
+AU  - U Ravens-Sieberer
+AU  - Sandra Nolte
+AU  - U Thyen
+AU  - M Klein
+AU  - O Walter
+AU  - A-K Meyrose
+AU  - M Rose
+AU  - C Otto
+KW  - Uncategorized ; Adolescents ; Children ; Chronic disease ; Computer-adaptive testing ; Longitudinal research ; Quality of life ; Self-report ; Science & Technology ; Life Sciences & Biomedicine ; Psychiatry ; COMPUTER-ADAPTIVE TEST ; SOCIOECONOMIC-STATUS ; TYPE-1 ; ARTHRITIS ; ASTHMA ; COMPLAINTS ; SYMPTOMS ; VALIDITY ; HRQOL ; YOUTH
+UR  - http://hdl.handle.net/10536/DRO/DU:30117280
+PY  - 2018
+AB  - OBJECTIVE: This study aims at identifying predictors of generic health-related quality of life (HRQoL) in chronically ill children and adolescents over time. The newly developed computer-adaptive test Kids-CAT was used to assess five dimensions of HRQoL. METHODS: Longitudinal data from the Kids-CAT study on children and adolescents with asthma, diabetes and juvenile arthritis (n = 248; aged 7-17 years) were assessed at three measurement points over six months. Individual growth modeling served to investigate effects of sociodemographic, disease- and health-related as well as psychosocial factors on HRQoL dimensions Physical Well-Being (WB), Psychological WB, Parent Relations, Social Support & Peers, and School WB over time. RESULTS: Besides effects of sociodemographic variables on HRQoL dimensions Social Support & Peers as well as School WB, we found that a longer duration of the disease was associated with better Physical WB. Lower scores were found for patients with juvenile arthritis compared to those with diabetes in HRQoL dimensions Physical WB and Social Support & Peers. Disease control was positively related to Physical and Psychological WB over time. Mental health problems were negatively associated with four, and subjective health complaints with all five HRQoL dimensions over time. Parental mental health was positively related to the patients' HRQoL score in Parent Relations over time. CONCLUSIONS: HRQoL as a multidimensional construct is associated with a wide range of different factors. Pediatricians should consider potential mental health problems and subjective health complaints in their patients. Finally, parental HRQoL can affect HRQoL in chronically ill children and adolescents.
+ER  - 
+TY  - JOUR
+TI  - Language-related differential item functioning between English and German PROMIS depression items is negligible
+AU  - H Felix Fischer
+AU  - Inka Wahl
+AU  - Sandra Nolte
+AU  - Gregor Liegl
+AU  - Elmar Brähler
+AU  - Bernd Löwe
+AU  - Matthias Rose
+KW  - Uncategorized ; Item-Response Theory ; PROMIS ; depression ; differential item functioning ; outcome assessment ; patient-reported outcomes ; Adult ; Aged ; Depressive Disorder ; Female ; Germany ; Humans ; Male ; Middle Aged ; Patient Reported Outcome Measures ; Psychometrics ; United States ; Science & Technology ; Life Sciences & Biomedicine ; Psychiatry ; COMPUTER-ADAPTIVE TEST ; RESPONSE THEORY ; MEASUREMENT EQUIVALENCE ; LIKELIHOOD RATIO ; SHORT-FORMS ; SYMPTOMS ; ANXIETY ; BANKS ; SCALE
+UR  - http://hdl.handle.net/10536/DRO/DU:30117549
+PY  - 2017
+AB  - To investigate differential item functioning (DIF) of PROMIS Depression items between US and German samples we compared data from the US PROMIS calibration sample (n = 780), a German general population survey (n = 2,500) and a German clinical sample (n = 621). DIF was assessed in an ordinal logistic regression framework, with 0.02 as criterion for R2 -change and 0.096 for Raju's non-compensatory DIF. Item parameters were initially fixed to the PROMIS Depression metric; we used plausible values to account for uncertainty in depression estimates. Only four items showed DIF. Accounting for DIF led to negligible effects for the full item bank as well as a post hoc simulated computer-adaptive test (< 0.1 point on the PROMIS metric [mean = 50, standard deviation =10]), while the effect on the short forms was small (< 1 point). The mean depression severity (43.6) in the German general population sample was considerably lower compared to the US reference value of 50. Overall, we found little evidence for language DIF between US and German samples, which could be addressed by either replacing the DIF items by items not showing DIF or by scoring the short form in German samples with the corrected item parameters reported.
+ER  - 
+TY  - JOUR
+TI  - Predictors of self-reported health-related quality of life according to the EQ-5D-Y in chronically ill children and adolescents with asthma, diabetes, and juvenile arthritis: longitudinal results
+AU  - Christiane Otto
+AU  - Dana Barthel
+AU  - Fionna Klasen
+AU  - Sandra Nolte
+AU  - Matthias Rose
+AU  - Ann-Katrin Meyrose
+AU  - Marcus Klein
+AU  - Ute Thyen
+AU  - Ulrike Ravens-Sieberer
+KW  - Uncategorized ; Adolescents ; Children ; Chronic illness ; EQ-5D-Y ; Quality of life ; Adolescent ; Arthritis ; Juvenile ; Asthma ; Child ; Diabetes Mellitus ; Female ; Humans ; Longitudinal Studies ; Male ; Patient Reported Outcome Measures ; Self Report ; Surveys and Questionnaires ; Science & Technology ; Life Sciences & Biomedicine ; Health Care Sciences & Services ; Health Policy & Services ; Public ; Environmental & Occupational Health ; COMPUTER-ADAPTIVE TEST ; SOCIOECONOMIC-STATUS ; DIFFICULTIES QUESTIONNAIRE ; TYPE-1 ; VALIDITY ; HRQOL ; RELIABILITY ; STRENGTHS ; CAT
+UR  - http://hdl.handle.net/10536/DRO/DU:30117283
+PY  - 2018
+AB  - PURPOSE: Health-related quality of life (HRQoL) is an important patient-reported outcome in clinical and health research. The EQ-5D-Y assesses child and adolescent HRQoL by five items on mobility, self-care, usual activities, pain/discomfort, and anxiety/depression as well as a visual analogue scale (VAS) on the current health state. This study investigates predictors of self-reported HRQoL according to the EQ-5D-Y in chronically ill children and adolescents using longitudinal data. METHODS: Data from the German Kids-CAT study on children and adolescents with asthma, diabetes, and juvenile arthritis gathered over a period of six months were analyzed (n = 310; 7-17 years old; 48% female). Self-, parent-, and pediatrician-reported data were collected from June 2013 to October 2014. Generalized linear mixed models and linear mixed models served to examine effects of socio-demographic as well as disease- and health-specific predictors on the items as well as on the VAS of the EQ-5D-Y. RESULTS: Ceiling effects for the EQ-5D-Y indicated low burden of disease in the analyzed sample. Longitudinal analyses revealed associations between less health complaints and better HRQoL for all investigated HRQoL domains. Further, age- and gender-specific effects, and associations of better disease control, longer duration of the disease and less mental health problems with better HRQoL were found. CONCLUSIONS: Subjective health complaints and mental health problems should be considered in the care of children and adolescents with asthma, diabetes, and juvenile arthritis. Future research should suggest administering the items of the EQ-5D-Y with five instead of three response options, and investigate HRQoL over a longer period.
+ER  - 
+TY  - CONF
+TI  - Adaptive Source Bias for Improved Resistive-Open Defect Coverage during SRAM Testing
+AU  - Vatajelu, Elena Ioana
+AU  - Bosio, Alberto
+AU  - Girard, Patrick
+AU  - Todri-Sanial, Aida
+AU  - Virazel, Arnaud
+AU  - Badereddine, Nabil
+KW  - SRAM chips ; fault diagnosis ; integrated circuit testing ; SRAM testing ; adaptive source bias ; continuous device scaling ; fault detection ; process variability ; resistive-open defect coverage ; test algorithms ; Circuit faults ; MOSFET ; SRAM cells ; Testing ; Threshold voltage ; 6T SRAM Cell ; Adaptive Test ; Resistive-open Defects ; Source-Biasing ; [SPI.NANO]Engineering Sciences [physics]/Micro and nanotechnologies/Microelectronics
+PB  - HAL CCSD
+UR  - https://hal-lirmm.ccsd.cnrs.fr/lirmm-01248609
+LA  - en
+PY  - 2013
+AB  - International audience ; SRAM testing is becoming more and more challenging due to issues caused by continuous device scaling. Fabricated SRAMs are submitted to random and systematic process variability, which strongly affect the cell's behavior and also the ability of test algorithms to detect faults. Traditionally, bias conditions have been used to improve the behavior of the SRAM under process variations by applying body bias to compensate for the effect of variability. Based on the same principle, bias conditions also affect the cell's behavior when resistive-opens are present, hence affecting test's defect coverage capability. Both body- and source-bias conditions are analyzed in this paper to find the way to improve defect detect ability in the SRAM cell. Source-biasing has been proven to be the more effective of the two, leading to more than 3X improvement of the defect detected value. Also, by adapting the source-bias conditions to process parameter values, over- and under-testing of the SRAM can be avoided.
+ER  - 
+TY  - CONF
+TI  - Adaptive Source Bias for Improved Resistive-Open Defect Coverage during SRAM Testing
+AU  - Vatajelu, Elena Ioana
+AU  - Bosio, Alberto
+AU  - Girard, Patrick
+AU  - Todri-Sanial, Aida
+AU  - Virazel, Arnaud
+AU  - Badereddine, Nabil
+KW  - SRAM chips ; fault diagnosis ; integrated circuit testing ; SRAM testing ; adaptive source bias ; continuous device scaling ; fault detection ; process variability ; resistive-open defect coverage ; test algorithms ; Circuit faults ; MOSFET ; SRAM cells ; Testing ; Threshold voltage ; 6T SRAM Cell ; Adaptive Test ; Resistive-open Defects ; Source-Biasing ; [SPI.NANO]Engineering Sciences [physics]/Micro and nanotechnologies/Microelectronics
+PB  - HAL CCSD
+UR  - https://hal-lirmm.ccsd.cnrs.fr/lirmm-01248609
+LA  - en
+PY  - 2013
+AB  - International audience ; SRAM testing is becoming more and more challenging due to issues caused by continuous device scaling. Fabricated SRAMs are submitted to random and systematic process variability, which strongly affect the cell's behavior and also the ability of test algorithms to detect faults. Traditionally, bias conditions have been used to improve the behavior of the SRAM under process variations by applying body bias to compensate for the effect of variability. Based on the same principle, bias conditions also affect the cell's behavior when resistive-opens are present, hence affecting test's defect coverage capability. Both body- and source-bias conditions are analyzed in this paper to find the way to improve defect detect ability in the SRAM cell. Source-biasing has been proven to be the more effective of the two, leading to more than 3X improvement of the defect detected value. Also, by adapting the source-bias conditions to process parameter values, over- and under-testing of the SRAM can be avoided.
+ER  - 
+TY  - CONF
+TI  - Adaptive Source Bias for Improved Resistive-Open Defect Coverage during SRAM Testing
+AU  - Vatajelu, Elena Ioana
+AU  - Bosio, Alberto
+AU  - Girard, Patrick
+AU  - Todri-Sanial, Aida
+AU  - Virazel, Arnaud
+AU  - Badereddine, Nabil
+KW  - SRAM chips ; fault diagnosis ; integrated circuit testing ; SRAM testing ; adaptive source bias ; continuous device scaling ; fault detection ; process variability ; resistive-open defect coverage ; test algorithms ; Circuit faults ; MOSFET ; SRAM cells ; Testing ; Threshold voltage ; 6T SRAM Cell ; Adaptive Test ; Resistive-open Defects ; Source-Biasing ; [SPI.NANO]Engineering Sciences [physics]/Micro and nanotechnologies/Microelectronics
+PB  - HAL CCSD
+UR  - https://hal-lirmm.ccsd.cnrs.fr/lirmm-01248609
+LA  - en
+PY  - 2013
+AB  - International audience ; SRAM testing is becoming more and more challenging due to issues caused by continuous device scaling. Fabricated SRAMs are submitted to random and systematic process variability, which strongly affect the cell's behavior and also the ability of test algorithms to detect faults. Traditionally, bias conditions have been used to improve the behavior of the SRAM under process variations by applying body bias to compensate for the effect of variability. Based on the same principle, bias conditions also affect the cell's behavior when resistive-opens are present, hence affecting test's defect coverage capability. Both body- and source-bias conditions are analyzed in this paper to find the way to improve defect detect ability in the SRAM cell. Source-biasing has been proven to be the more effective of the two, leading to more than 3X improvement of the defect detected value. Also, by adapting the source-bias conditions to process parameter values, over- and under-testing of the SRAM can be avoided.
+ER  - 
+TY  - CONF
+TI  - Adaptive Source Bias for Improved Resistive-Open Defect Coverage during SRAM Testing
+AU  - Vatajelu, Elena Ioana
+AU  - Bosio, Alberto
+AU  - Girard, Patrick
+AU  - Todri-Sanial, Aida
+AU  - Virazel, Arnaud
+AU  - Badereddine, Nabil
+KW  - SRAM chips ; fault diagnosis ; integrated circuit testing ; SRAM testing ; adaptive source bias ; continuous device scaling ; fault detection ; process variability ; resistive-open defect coverage ; test algorithms ; Circuit faults ; MOSFET ; SRAM cells ; Testing ; Threshold voltage ; 6T SRAM Cell ; Adaptive Test ; Resistive-open Defects ; Source-Biasing ; [SPI.NANO]Engineering Sciences [physics]/Micro and nanotechnologies/Microelectronics
+PB  - HAL CCSD
+UR  - https://hal-lirmm.ccsd.cnrs.fr/lirmm-01248609
+LA  - en
+PY  - 2013
+AB  - International audience ; SRAM testing is becoming more and more challenging due to issues caused by continuous device scaling. Fabricated SRAMs are submitted to random and systematic process variability, which strongly affect the cell's behavior and also the ability of test algorithms to detect faults. Traditionally, bias conditions have been used to improve the behavior of the SRAM under process variations by applying body bias to compensate for the effect of variability. Based on the same principle, bias conditions also affect the cell's behavior when resistive-opens are present, hence affecting test's defect coverage capability. Both body- and source-bias conditions are analyzed in this paper to find the way to improve defect detect ability in the SRAM cell. Source-biasing has been proven to be the more effective of the two, leading to more than 3X improvement of the defect detected value. Also, by adapting the source-bias conditions to process parameter values, over- and under-testing of the SRAM can be avoided.
+ER  - 
+TY  - CONF
+TI  - Adaptive Source Bias for Improved Resistive-Open Defect Coverage during SRAM Testing
+AU  - Vatajelu, Elena Ioana
+AU  - Bosio, Alberto
+AU  - Girard, Patrick
+AU  - Todri-Sanial, Aida
+AU  - Virazel, Arnaud
+AU  - Badereddine, Nabil
+KW  - SRAM chips ; fault diagnosis ; integrated circuit testing ; SRAM testing ; adaptive source bias ; continuous device scaling ; fault detection ; process variability ; resistive-open defect coverage ; test algorithms ; Circuit faults ; MOSFET ; SRAM cells ; Testing ; Threshold voltage ; 6T SRAM Cell ; Adaptive Test ; Resistive-open Defects ; Source-Biasing ; [SPI.NANO]Engineering Sciences [physics]/Micro and nanotechnologies/Microelectronics
+PB  - HAL CCSD
+UR  - https://hal-lirmm.ccsd.cnrs.fr/lirmm-01248609
+LA  - en
+PY  - 2013
+AB  - International audience ; SRAM testing is becoming more and more challenging due to issues caused by continuous device scaling. Fabricated SRAMs are submitted to random and systematic process variability, which strongly affect the cell's behavior and also the ability of test algorithms to detect faults. Traditionally, bias conditions have been used to improve the behavior of the SRAM under process variations by applying body bias to compensate for the effect of variability. Based on the same principle, bias conditions also affect the cell's behavior when resistive-opens are present, hence affecting test's defect coverage capability. Both body- and source-bias conditions are analyzed in this paper to find the way to improve defect detect ability in the SRAM cell. Source-biasing has been proven to be the more effective of the two, leading to more than 3X improvement of the defect detected value. Also, by adapting the source-bias conditions to process parameter values, over- and under-testing of the SRAM can be avoided.
+ER  - 
+TY  - THES
+TI  - Determinační test ; Determination test
+AU  - Ondřej Kopecký
+KW  - Determinační ; test ; psychodiagnostika ; adaptivní test ; reaktivní stresová tolerance ; pozornost ; reakční čas ; GPIO ; pull-up/pull-down rezistor ; rozhraní člověk-stroj ; grafické uživatelské rozhraní ; Python ; Pygame ; Kivy ; Determination ; psychodiagnostics ; adaptive test ; reactive stress tolerance ; attention ; reaction time ; human-machine interface ; graphical user interface
+PB  - České vysoké učení technické v Praze. Vypočetní a informační centrum. ; Czech Technical University in Prague. Computing and Information Centre.
+UR  - http://hdl.handle.net/10467/103669
+PY  - 2022
+AB  - V této práci je řešena konstrukce psychometrického přístroje determinačního testu, který slouží jako psychodiagnostická metoda pro měření pozornosti a dalších souvisejících psychických funkcí. Práce kombinuje jak technické znalosti elektrotechniky, technického měření, informační technologie tak humanitní znalosti psychologie. Souvislosti determinačního testu s psychologií jsou rozvedeny v teoretické části práce. Jsou zde popsány metodiky postupu vytváření psychotestů a testem měřené psychické funkce. V praktické části je dále rozveden postup realizace fyzické konstrukce přístroje determinačního testu spolu se stručným popisem softwarové aplikace uživatelského rozhraní. Výsledkem této práce je prototypové zařízení determinačního testu, které je schopné plnit tyto dílčí části psychodiagnostického procesu: zadávat podněty, registrovat reakce a vyhodnotit výsledky měření. ; In this thesis, the construction of the determination test psychometric device, which is used as a psycho-diagnostic method for attention and its related mental functions measurement, is being dealt with. The thesis combines technical fields of electronics, technical measurement, and information technology, as well as humanitarian fields like psychology. The context of the determination test in relation to psychology is being described in the theoretical part of the thesis. The methodology for developing psycho-tests as well as the test variables can be found here. In the practical part of the thesis, the process of the physical construction of the determination test control panel is being described along with the quick description of the user interface software application. The result of this thesis is the prototype of the determination test device, which is able to perform the elemental parts of the psycho-diagnostic process such as: stimulus assignment, reaction registration, and measurement result evaluation.
+ER  - 

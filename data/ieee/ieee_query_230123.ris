@@ -1,0 +1,1161 @@
+TY  - CONF
+TI  - Valid Test Pattern Identification for VLSI Adaptive Test
+T2  - 2021 China Semiconductor Technology International Conference (CSTIC)
+SP  - 1
+EP  - 4
+AU  - T. Ni
+AU  - T. Song
+PY  - 2021
+KW  - Analytical models
+KW  - Adaptation models
+KW  - Integrated circuit testing
+KW  - Redundancy
+KW  - Very large scale integration
+KW  - Hardware
+KW  - Manufacturing
+KW  - Adaptive test
+KW  - test pattern
+KW  - LDA
+KW  - test cost
+DO  - 10.1109/CSTIC52283.2021.9461537
+JO  - 2021 China Semiconductor Technology International Conference (CSTIC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 China Semiconductor Technology International Conference (CSTIC)
+Y1  - 14-15 March 2021
+AB  - During manufacturing test, more and more test patterns are added to test set to achieve acceptable defect levels, which seriously affect test cost. This paper proposes a kind of eliminate redundancy pattern method, so that this MRMR (Max-Relevance Min-Redundancy) algorithm which can provide test cost reduction without increasing the defect level obviously. Experiment results demonstrate that the valid test patterns have higher test quality, which can reduce the test time and test cost of the faulty circuit. The algorithm is completely software-based and does not require any additional hardware overhead and is directly compatible with traditional integrated circuit testing process.
+ER  - 
+
+TY  - CONF
+TI  - Real-time adaptive test algorithm including test escape estimation method
+T2  - 2015 IEEE 20th International Mixed-Signals Testing Workshop (IMSTW)
+SP  - 1
+EP  - 6
+AU  - C. Streitwieser
+PY  - 2015
+KW  - Estimation
+KW  - Testing
+KW  - Adaptation models
+KW  - Integrated circuits
+KW  - Sociology
+KW  - Statistics
+KW  - Heuristic algorithms
+KW  - Adaptive Test (AT)
+KW  - Test Time Reduction (TTR)
+KW  - Statistical Process Control (SPC)
+KW  - Part Average Testing (PAT)
+DO  - 10.1109/IMS3TW.2015.7177875
+JO  - 2015 IEEE 20th International Mixed-Signals Testing Workshop (IMSTW)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE 20th International Mixed-Signals Testing Workshop (IMSTW)
+Y1  - 24-26 June 2015
+AB  - This work aims to reduce the test time per chip, but affect the quality of the products only as little as possible compared to the conventional semiconductor test. For that purpose, a simulation software has been developed that performs adaptive test simulations based on real data and test results of conventional production testing. Product analyzes were performed and both the potential for test time savings and the resulting loss of quality were determined. Finally, it has shown that by the intelligent omission of tests, compared to conventional testing procedures, test time reduction of up to 50% can be achieved. In contrast, there are only few unrecognized defective components that are not detected by the adaptive test procedure and which reduced the quality of products. In best case, the fraction of nonconforming units was reduced down to values under 40ppm. To handle the potential risk of test escapes this paper also introduces a statistical estimation method.
+ER  - 
+
+TY  - CONF
+TI  - Adaptive Test Methods for High IC Quality and Reliability
+T2  - 2016 29th International Conference on VLSI Design and 2016 15th International Conference on Embedded Systems (VLSID)
+SP  - 21
+EP  - 22
+AU  - A. D. Singh
+PY  - 2016
+KW  - Testing
+KW  - Very large scale integration
+KW  - Manufacturing
+KW  - Reliability
+KW  - Tutorials
+KW  - Statistical analysis
+DO  - 10.1109/VLSID.2016.137
+JO  - 2016 29th International Conference on VLSI Design and 2016 15th International Conference on Embedded Systems (VLSID)
+IS  - 
+SN  - 2380-6923
+VO  - 
+VL  - 
+JA  - 2016 29th International Conference on VLSI Design and 2016 15th International Conference on Embedded Systems (VLSID)
+Y1  - 4-8 Jan. 2016
+AB  - The wide variation in process parameters now being observed in advanced semiconductor processes can sometimes cause the electrical impact of subtle manufacturing defects on observed signals during post manufacturing tests to remain within the acceptable range set to ensure viable manufacturing yields, thereby masking defect detection. Such undetected manufacturing flaws can potentially cause functional failure under inputs and/or operating conditions not tested during test; they can also behave as latent reliability defects that "grow" over time to cause early life failure. Test methodologies that target the "zero-defect" product quality requirements being pushed by automotive and an increasing number of other applications must address such test escapes by using innovative statistical methods and adaptive testing because of the prohibitive costs of extensive functional and stress/burn-in testing of all parts. The basic idea here is similar to "zero-defect" security screening at airports: parts that pass the initial tests but appear to be "suspect" is some respect are separated out for more extensive tests. Also, additional specialized tests are adaptively added to the test flow to target the suspected failure mode; this requires both the feeding forward and feeding back of results from different stages of the testing process. A few seriously suspect but passing parts may even be discarded outright to ensure quality, if the resulting yield loss is acceptable.Advanced statistical screening methods fall into two broad categories: those that exploit the statistics of defect distribution on wafers - e.g. passing die in "bad" wafer neighborhoods are suspect parts; and those that exploit the correlation in performance parameters in lots and wafers - passing die that are performance outliers relative to matched parts are suspect. This tutorial presents screening methodologies that span both these categories, for both digital and analog parts. We illustrate their effectiveness using results from a number of published experimental studies on production circuits from IBM, Intel, LSI Logic, NXP Semiconductors, and MediaTek. The examples discussed focus on studies where the tests target classical stuck-at faults, as well as IDDQ testing, TDF and path delay timing tests, and also the newly introduced cell aware fault models.Recently, adaptive test methods have been more broadly defined to also include test time reduction techniques based on dynamic test reordering, adaptive scan shift frequency selection for each die, etc. The benefits and challenges of employing these methods are also discussed.Several new companies have emerged targeting the "Adaptive Test" space in recent years. Their commercial offerings are also presented and discussed. Broadly, these aim to provide the software infrastructure and tools needed to support the feed forward and feedback sharing of results from the different test insertions in the test flow for effective test adaptation and optimization. These test results are then utilized by customizable templates to generate automated test selection algorithms that can dynamically apply the most effective test at each test insertion/stage in the test flow, and also perform statistical binning once all testing is complete.
+ER  - 
+
+TY  - JOUR
+TI  - Design and evaluation of an XML-based platform-independent computerized adaptive testing system
+T2  - IEEE Transactions on Education
+SP  - 230
+EP  - 237
+AU  - Rong-Guey Ho
+AU  - Yung-Chin Yen
+PY  - 2005
+KW  - Microcomputers
+KW  - Automatic testing
+KW  - Computer aided instruction
+KW  - Computerized adaptive testing (CAT)
+KW  - distance computerized adaptive testing (DCAT)
+KW  - extensible markup language (XML)
+KW  - item response theory (IRT)
+KW  - personal digital assistant (PDA)
+DO  - 10.1109/TE.2004.837035
+JO  - IEEE Transactions on Education
+IS  - 2
+SN  - 1557-9638
+VO  - 48
+VL  - 48
+JA  - IEEE Transactions on Education
+Y1  - May 2005
+AB  - This paper is an attempt to design and to evaluate the platform-independent computerized adaptive testing (CAT) system, which can expand the diversity of CAT-administering platforms. By using extensible markup language (XML) to describe the item bank, one might find the implementation of CAT on a different platform, such as a personal computer (PC), a personal digital assistant (PDA), and other handheld devices, more convenient. An experiment was conducted to examine the effects of a CAT administration platform on precision and efficiency. Fifty senior high school students were selected to take an English vocabulary CAT both on PC and PDA, which enabled them to compare the relevant advantages with the disadvantages of the two different administration platforms firsthand. Both tests used the same-size, well-calibrated item bank, ability estimation algorithm, and item selection strategy. The results indicate that the platforms on which examinees take CAT do not affect the performance of CAT. The responses of the questionnaire on the testing environment also show that most examinees prefer to take the test on PDA. It is concluded that using a PDA to administer CAT is both as precise and effective as a PC and more enjoyable and convenient.
+ER  - 
+
+TY  - CONF
+TI  - Realization of Virtual Reality Technology in College Students' Social Anxiety Intervention Platform based on SQL Information Sequence Data Mining
+T2  - 2022 International Conference on Applied Artificial Intelligence and Computing (ICAAIC)
+SP  - 710
+EP  - 713
+AU  - X. Ding
+AU  - S. Shen
+AU  - G. Cui
+AU  - Y. Wang
+AU  - J. Tan
+AU  - Q. Zhong
+PY  - 2022
+KW  - Solid modeling
+KW  - Correlation
+KW  - Computational modeling
+KW  - Anxiety disorders
+KW  - Time series analysis
+KW  - Fitting
+KW  - Virtual environments
+KW  - Virtual Reality
+KW  - College Students
+KW  - Social Anxiety Intervention
+KW  - SQL Infomration Sequence
+KW  - Data Mining
+DO  - 10.1109/ICAAIC53929.2022.9792944
+JO  - 2022 International Conference on Applied Artificial Intelligence and Computing (ICAAIC)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2022 International Conference on Applied Artificial Intelligence and Computing (ICAAIC)
+Y1  - 9-11 May 2022
+AB  - In this paper, under the framework of SQL information sequence mining, combined with well-known social anxiety scales at home and abroad, a social anxiety question bank and its computerized adaptive test (CAT-SA) are constructed. The IRT analysis includes: unidimensionality test, item model-data fitting test, local independence test, DIF test, and selecting items that meet the IRT requirements to construct a social anxiety question bank and its CAT. According to the two-stage adaptive assessment with similar significance in the evaluation scene design, the ITC_SoPI scale was used to evaluate the individual's degree of adaptation and subjective feeling to the virtual environment. VR-based social anxiety assessment can provide more detailed and comprehensive assessment information and data, and the assessment results are doser to the self-assessment scale and the individual's daily life and state.
+ER  - 
+
+TY  - CONF
+TI  - A Survey On Computerized Adaptive Testing
+T2  - 2021 Innovations in Intelligent Systems and Applications Conference (ASYU)
+SP  - 1
+EP  - 6
+AU  - B. Keskin
+AU  - M. Gunay
+PY  - 2021
+KW  - Computers
+KW  - Technological innovation
+KW  - Cats
+KW  - Adaptive systems
+KW  - Pandemics
+KW  - Education
+KW  - Logic gates
+KW  - Computer based assessment(CBA)
+KW  - computerized adaptive testing(Cat)
+KW  - item response theory(IRT)
+KW  - paper based tests (PBT)
+KW  - psychometric theory
+KW  - examinee
+KW  - classical test theory (CTT)
+DO  - 10.1109/ASYU52992.2021.9598952
+JO  - 2021 Innovations in Intelligent Systems and Applications Conference (ASYU)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2021 Innovations in Intelligent Systems and Applications Conference (ASYU)
+Y1  - 6-8 Oct. 2021
+AB  - In this paper, a review of computerized adaptive testing(Cat),its key parameters, application areas, and comparison with paper-based assessment is done. With the pandemic affecting the whole world, remote education has become a necessity. Remote education has its own challenges for both the students and instructors. The most important challenge in this situation is the correctly evaluate the performance of the students receiving remote education. In this paper, it is researched that if the CAT is a suitable method in order to correctly assess the level of the students.
+ER  - 
+
+TY  - CONF
+TI  - e-Xamina: An Experimental Multi-user Assessment Platform for Computer Adaptive Testing
+T2  - 2011 IEEE International Conference on Technology for Education
+SP  - 237
+EP  - 240
+AU  - M. R. D. Sorbo
+AU  - W. Balzano
+PY  - 2011
+KW  - Testing
+KW  - Computers
+KW  - Electronic learning
+KW  - Standards
+KW  - Automata
+KW  - Adaptation models
+KW  - Computer Based Testing (CBT)
+KW  - Computer Adaptive Testing (CAT)
+KW  - E-Assessment
+KW  - e-Xamina
+DO  - 10.1109/T4E.2011.47
+JO  - 2011 IEEE International Conference on Technology for Education
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 IEEE International Conference on Technology for Education
+Y1  - 14-16 July 2011
+AB  - Most recent e-learning platforms include testing modules and Computer Based Assessment (CBA) is currently one of the most pressing issues in Learning Management Systems (LMS). Traditional testing techniques aren't fully adequate to examination administration in higher education contexts, as they generally require choosing the answer just in a narrow set of options. Adaptive testing permits an evaluation more suitable for the examinee but it is affected by limits related to the uniformity of the exams, to the range/width of the subjects and to the large amount of items to be inserted in the question databases. e-Xamina is a prototype of assessment platform aimed at combining the features of these two main kinds of CBA. e-Xamina model suggests a new performance based exam pattern and a score criterion based on standard examination practice. Finally, e-Xamina multi-user feature allows the teachers to cooperate in managing course database, with many different levels of competence and rights.
+ER  - 
+
+TY  - CONF
+TI  - Towards adaptive test of multi-core RF SoCs
+T2  - 2013 Design, Automation & Test in Europe Conference & Exhibition (DATE)
+SP  - 743
+EP  - 748
+AU  - R. Mittal
+AU  - L. Balasubramanian
+AU  - C. Kumar Y.B.
+AU  - V. R. Devanathan
+AU  - M. Kawoosa
+AU  - R. A. Parekhji
+PY  - 2013
+KW  - System-on-chip
+KW  - Radio frequency
+KW  - Stress
+KW  - Optimization
+KW  - Discrete Fourier transforms
+KW  - Calibration
+KW  - Multicore processing
+KW  - Adaptive test
+KW  - RF test
+KW  - multi-core chips
+KW  - test time optimization
+DO  - 10.7873/DATE.2013.159
+JO  - 2013 Design, Automation & Test in Europe Conference & Exhibition (DATE)
+IS  - 
+SN  - 1530-1591
+VO  - 
+VL  - 
+JA  - 2013 Design, Automation & Test in Europe Conference & Exhibition (DATE)
+Y1  - 18-22 March 2013
+AB  - This paper discusses how adaptive test techniques can be applied to multi-core RF SoCs, together with design implementation and test challenges. Various techniques specific to RF circuits covering calibration trims, power management modules, co-existence issues, concurrent testing, and test measurements are explained. Results on different designs are presented. Together, they highlight the need and scope of adaptive test for RF circuits, and share a new dimension in the test of multi-core circuits, under different constraints of design, test and test equipment.
+ER  - 
+
+TY  - CONF
+TI  - Adapting to adaptive testing
+T2  - 2010 Design, Automation & Test in Europe Conference & Exhibition (DATE 2010)
+SP  - 556
+EP  - 561
+AU  - E. J. Marinissen
+AU  - A. Singh
+AU  - D. Glotter
+AU  - M. Esposito
+AU  - J. M. Carulli
+AU  - A. Nahar
+AU  - K. M. Butler
+AU  - D. Appello
+AU  - C. Portelli
+PY  - 2010
+KW  - Circuit testing
+KW  - Integrated circuit testing
+KW  - Semiconductor device manufacture
+KW  - Microelectronics
+KW  - Cost function
+KW  - Semiconductor device testing
+KW  - Stress
+KW  - Probes
+KW  - Integrated circuit packaging
+KW  - Instruments
+DO  - 10.1109/DATE.2010.5457143
+JO  - 2010 Design, Automation & Test in Europe Conference & Exhibition (DATE 2010)
+IS  - 
+SN  - 1558-1101
+VO  - 
+VL  - 
+JA  - 2010 Design, Automation & Test in Europe Conference & Exhibition (DATE 2010)
+Y1  - 8-12 March 2010
+AB  - Adaptive testing is a generic term for a number of techniques which aim at improving the test quality and/or reducing the test application costs. In adaptive tests, the test content or pass/fail limits are not fixed as in conventional tests, but dependent on other test results of the currently or previously tested chips. Part-average testing, outlier detection, and neighborhood screening are just a few examples of adaptive testing. With this Embedded Tutorial, we are offering an introduction to this topic, which is hot in the test community, to the wider DATE audience.
+ER  - 
+
+TY  - CONF
+TI  - Feasibility of computerized adaptive testing evaluated by Monte-Carlo and post-hoc simulations
+T2  - 2020 15th Conference on Computer Science and Information Systems (FedCSIS)
+SP  - 359
+EP  - 367
+AU  - L. Štěpánek
+AU  - P. Martinková
+PY  - 2020
+KW  - Computer science
+KW  - Adaptation models
+KW  - Analytical models
+KW  - Monte Carlo methods
+KW  - Adaptive systems
+KW  - Error analysis
+KW  - Computational modeling
+DO  - 10.15439/2020F197
+JO  - 2020 15th Conference on Computer Science and Information Systems (FedCSIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2020 15th Conference on Computer Science and Information Systems (FedCSIS)
+Y1  - 6-9 Sept. 2020
+AB  - Computerized adaptive testing (CAT) is a modern alternative to classical paper and pencil testing. CAT is based on an automated selection of optimal item corresponding to current estimate of test-taker’s ability, which is in contrast to fixed predefined items assigned in linear test. Advantages of CAT include lowered test anxiety and shortened test length, increased precision of estimates of test-takers’ abilities, and lowered level of item exposure thus better security. Challenges are high technical demands on the whole test work-flow and need of large item banks. In this study, we analyze feasibility and advantages of computerized adaptive testing using a Monte-Carlo simulation and post-hoc analysis based on a real linear admission test administrated at a medical college. We compare various settings of the adaptive test in terms of precision of ability estimates and test length. We find out that with adaptive item selection, the test length can be reduced to 40 out of 100 items while keeping the precision of ability estimates within the prescribed range and obtaining ability estimates highly correlated to estimates based on complete linear test (Pearson’s $\rho$=0.96). We also demonstrate positive effect of content balancing and item exposure rate control on item composition.
+ER  - 
+
+TY  - CONF
+TI  - Applying affective assessment to detect the ICT infused mathematics intervention effect
+T2  - 2010 2nd International Asia Conference on Informatics in Control, Automation and Robotics (CAR 2010)
+SP  - 321
+EP  - 323
+AU  - P. -H. Hung
+AU  - I-Hsiang Su
+PY  - 2010
+KW  - Mathematics
+KW  - Robotics and automation
+KW  - Statistics
+KW  - Mathematical model
+KW  - Testing
+KW  - Educational institutions
+KW  - Asia
+KW  - Informatics
+KW  - Automatic control
+KW  - Robot control
+KW  - ICT
+KW  - mathematics learning
+KW  - slow learner
+KW  - affective assessment
+KW  - intervention effect
+DO  - 10.1109/CAR.2010.5456537
+JO  - 2010 2nd International Asia Conference on Informatics in Control, Automation and Robotics (CAR 2010)
+IS  - 
+SN  - 1948-3422
+VO  - 2
+VL  - 2
+JA  - 2010 2nd International Asia Conference on Informatics in Control, Automation and Robotics (CAR 2010)
+Y1  - 6-7 March 2010
+AB  - The purpose of this study is to investigate the predictive power of a computerized mathematics learning approach scale (CMLAS) change measure. The change of CMLAS is applied as an indicator for ICT infused mathematics intervention effect. A computerized dynamic assessment model which combines mathematics computerized adaptive testing (MCAT) and a two-phase ICT infused intervention is implemented in this study. The first intervention phase uses a spatial game to modify student's mathematics learning approach. The second intervention phase focuses on fostering the slow learner's automaticity of numerical operation. The results suggest that the assessment of goal orientation change is a good predictor for ICT infused mathematics intervention effect.
+ER  - 
+
+TY  - CONF
+TI  - Effectiveness of motivating language and positive emotion on work outcomes based on CAT and SEM
+T2  - 2017 International Conference on Orange Technologies (ICOT)
+SP  - 151
+EP  - 154
+AU  - W. Wang
+AU  - P. Zhang
+PY  - 2017
+KW  - Social implications of technology
+KW  - Employment
+KW  - Q measurement
+KW  - orange technology
+KW  - employee positive emotion
+KW  - ML
+KW  - agreeableness
+KW  - conscientiousness
+KW  - work outcomes
+KW  - P-O fit
+DO  - 10.1109/ICOT.2017.8336110
+JO  - 2017 International Conference on Orange Technologies (ICOT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 International Conference on Orange Technologies (ICOT)
+Y1  - 8-10 Dec. 2017
+AB  - This study contributes to the orange technology on ML and employee positive emotion in the workplace. We propose that the motivating language (ML), positive emotion, especially the long-term positive emotion on the job generates favorable work outcomes. The current study examines the relationships between leader's ML, employee personality traits, and workplace outcomes in Chinese companies. The mediating effects of employee positive emotion and person-organization fit (P-O fit) in these relationships are also investigated. The results reveal that both ML and conscientiousness are significantly related to positive emotion, both of which play mediating roles in the relationship between ML, conscientiousness, and two of the three workplace outcomes. Test results also show that agreeableness affected all three employee outcomes through the effect of P-O fit.
+ER  - 
+
+TY  - JOUR
+TI  - Adaptive and Random Partition Software Testing
+T2  - IEEE Transactions on Systems, Man, and Cybernetics: Systems
+SP  - 1649
+EP  - 1664
+AU  - J. Lv
+AU  - H. Hu
+AU  - K. -Y. Cai
+AU  - T. Y. Chen
+PY  - 2014
+KW  - Software testing
+KW  - Computational efficiency
+KW  - Sensitivity analysis
+KW  - Adaptive testing
+KW  - random partition testing
+KW  - random testing
+KW  - software testing
+KW  - Adaptive testing
+KW  - random partition testing
+KW  - random testing
+KW  - software testing
+DO  - 10.1109/TSMC.2014.2318019
+JO  - IEEE Transactions on Systems, Man, and Cybernetics: Systems
+IS  - 12
+SN  - 2168-2232
+VO  - 44
+VL  - 44
+JA  - IEEE Transactions on Systems, Man, and Cybernetics: Systems
+Y1  - Dec. 2014
+AB  - Random testing (RT) and subdomain testing are two major software testing strategies. Their simplicity makes them likely the most efficient testing strategies with respect to the time required for test case selection. However, the disadvantage of RT is its defect detection effectiveness. Adaptive testing (AT) is a feedback-based software testing strategy that has been shown to be more effective than RT and partition testing (PT). However, a major concern in the application of AT is its complexity and computational cost for test case selection. In this paper, we propose a hybrid approach that uses AT and random partition testing (RPT) in an alternating manner. The motivation for this approach is that both strategies are employed such that the underlying computational complexity of AT is reduced by introducing RPT into the testing process without affecting the defect detection effectiveness. A case study with seven real-life subject programs is presented. The experimental results demonstrate that this novel strategy considerably reduces the computational overhead of the original AT strategy but still outperforms the pure RT strategy and PT strategy in terms of the number of test cases used to detect and remove a given number of defects. In addition, a sensitivity analysis is conducted to validate the robustness of our strategy.
+ER  - 
+
+TY  - CONF
+TI  - Towards Variation-Aware Test Methods
+T2  - 2011 Sixteenth IEEE European Test Symposium
+SP  - 219
+EP  - 225
+AU  - I. Polian
+AU  - B. Becker
+AU  - S. Hellebrand
+AU  - H. -J. Wunderlich
+AU  - P. Maxwell
+PY  - 2011
+KW  - Circuit faults
+KW  - Delay
+KW  - Testing
+KW  - Integrated circuit modeling
+KW  - Logic gates
+KW  - Adaptation models
+KW  - Computational modeling
+KW  - Parameter variations
+KW  - Adaptive test
+KW  - Delay test
+DO  - 10.1109/ETS.2011.51
+JO  - 2011 Sixteenth IEEE European Test Symposium
+IS  - 
+SN  - 1558-1780
+VO  - 
+VL  - 
+JA  - 2011 Sixteenth IEEE European Test Symposium
+Y1  - 23-27 May 2011
+AB  - Nanoelectronic circuits are increasingly affected by massive statistical process variations, leading to a paradigm shift in both design and test area. In circuit and system design, a broad class of methods for robustness like statistical design and self calibration has emerged and is increasingly used by the industry. The test community's answer to the massive-variation challenge is currently adaptive test. The test stimuli are modified on the fly (during test application) based on the circuit responses observed. The collected circuit outputs undergo statistical post-processing to facilitate pass/fail classification. We will present fundamentals of adaptive and robust test techniques and their theoretical background. While adaptive test is effective, the understanding how it covers defects under different process parameter combinations is not fully established yet with respect to algorithmic foundations. For this reason, novel analytic and algorithmic approaches in the field of variation-aware testing will also be presented in the tutorial. Coverage of defects in the process parameter space is modeled and maximized by an interplay between special fault simulation and multi-constrained ATPG algorithms. These systematic approaches can complement adaptive test application schemes to form a closed-loop system that combines analytical data with measurement results for maximal test quality.
+ER  - 
+
+TY  - CONF
+TI  - An Adaptive Test for Parametric Faults Based on Statistical Timing Information
+T2  - 2009 Asian Test Symposium
+SP  - 151
+EP  - 156
+AU  - M. Shintani
+AU  - T. Uezono
+AU  - T. Takahashi
+AU  - H. Ueyama
+AU  - T. Sato
+AU  - K. Hatayama
+AU  - T. Aikyo
+AU  - K. Masu
+PY  - 2009
+KW  - Timing
+KW  - Circuit faults
+KW  - Circuit testing
+KW  - Delay effects
+KW  - Propagation delay
+KW  - Semiconductor device testing
+KW  - Computer aided manufacturing
+KW  - Large scale integration
+KW  - Delay estimation
+KW  - Probability
+KW  - parametric fault
+KW  - path-delay test
+KW  - SSTA
+DO  - 10.1109/ATS.2009.90
+JO  - 2009 Asian Test Symposium
+IS  - 
+SN  - 2377-5386
+VO  - 
+VL  - 
+JA  - 2009 Asian Test Symposium
+Y1  - 23-26 Nov. 2009
+AB  - The continuing miniaturization of LSI dimension is causing the increase of process-related variations which significantly affects not only its design turn around time but also its manufacturing yield. Statistical static timing analysis (SSTA) is expected as a promising way to estimate the performance of circuits more accurately considering delay variations. However, LSIs designed using SSTA may have higher probability of parametric faults than the ones designed with deterministic timing analysis. In order to test these parametric faults, effective extraction techniques of critical paths are needed. In this paper, we discuss a general trend between the delay margin of LSIs designed by SSTA and their parametric fault ratio. Then we propose an adaptive test flow for parametric faults using statistical static timing information, and a concept of parametric fault coverage. Experimental results demonstrate the effectiveness of our approach.
+ER  - 
+
+TY  - CONF
+TI  - Relay adaptive testing research in smart substation process level based on EPON network
+T2  - 2015 5th International Conference on Electric Utility Deregulation and Restructuring and Power Technologies (DRPT)
+SP  - 2383
+EP  - 2388
+AU  - Z. Zhan
+AU  - R. Zhan
+AU  - Z. Chen
+AU  - C. Zhou
+PY  - 2015
+KW  - EPON
+KW  - IEEE 802.3 Standard
+KW  - Substations
+KW  - Protective relaying
+KW  - Adaptation models
+KW  - Power industry
+KW  - Communication networks
+KW  - smart substation
+KW  - relay protection
+KW  - EPON network
+KW  - dynamic simulation test
+DO  - 10.1109/DRPT.2015.7432645
+JO  - 2015 5th International Conference on Electric Utility Deregulation and Restructuring and Power Technologies (DRPT)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 5th International Conference on Electric Utility Deregulation and Restructuring and Power Technologies (DRPT)
+Y1  - 26-29 Nov. 2015
+AB  - Through describe the principles and characteristics of EPON network, Proposed EPON communications network applying smart substation process level, and test the adaptability of protection under the EPON network. The paper has constructed smart substation relay protection dynamic simulation model test platform based on EPON network. Selecting 220kV smart substation busbar protection, transformer protection, line protection for test object, and analyzed the test results. The result shows that relay protection operation performance has not affected by the process layer by using EPON network. The research work can provide the basis for the smart substation layer applying EPON network and the subsequent technology Application.
+ER  - 
+
+TY  - CONF
+TI  - Wall adaptation and determination of residual wall interferences for a 2D and a 3D model in the transonic wind tunnel TWG of DLR
+T2  - ICIASF'97 Record. International Congress on Instrumentation in Aerospace Simulation Facilities
+SP  - 174
+EP  - 184
+AU  - H. Holst
+AU  - K. . -W. Bock
+PY  - 1997
+KW  - Interference
+KW  - Testing
+KW  - Solid modeling
+KW  - Shape
+KW  - Stress
+KW  - Performance evaluation
+KW  - Logistics
+KW  - Adaptation model
+KW  - Drag
+KW  - Aerodynamics
+DO  - 10.1109/ICIASF.1997.644679
+JO  - ICIASF'97 Record. International Congress on Instrumentation in Aerospace Simulation Facilities
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - ICIASF'97 Record. International Congress on Instrumentation in Aerospace Simulation Facilities
+Y1  - 29 Sept.-2 Oct. 1997
+AB  - The transonic wind tunnel TWG of DLR Gottingen has been modernized with respect to an improved flow quality as well as to the logistics of exchangeable test sections, operational reliability and productivity. It is presently equipped with a Laval nozzle (supersonic), a perforated test section (transonic) and a two-dimensional adaptive (subsonic) test section. The latter can perform 2D adaptive tests on wing profiles using the Cauchy integral formula for wall adaptation, as well as 2D wall adaptation for 3D models utilizing the Wedemeyer/Lamarche (VKI) procedure. For both cases the wall adaptation was successful. The 3D force results compare quite well nominally interference-free results and to results from another adaptive test section. The pressure distribution from the wing profile tests agree quite well with theoretical results. For the 3D model, residual wall interferences were determined. It was found that the wall interferences had been reduced to nearly zero on the centreline of the test section by wall adaptation. Spanwise averages of the residual wall interferences have been used for further corrections.
+ER  - 
+
+TY  - CONF
+TI  - Trajectories in the competence field: During formative assessment
+T2  - 2017 International Conference on Electromechanical and Power Systems (SIELMEN)
+SP  - 359
+EP  - 363
+AU  - C. D. Gălăţanu
+PY  - 2017
+KW  - Taxonomy
+KW  - Sociology
+KW  - Statistics
+KW  - Testing
+KW  - Education
+KW  - Stress
+KW  - Trajectory
+KW  - Bloom's taxonomy
+KW  - motivation
+KW  - adaptive assessment
+DO  - 10.1109/SIELMEN.2017.8123349
+JO  - 2017 International Conference on Electromechanical and Power Systems (SIELMEN)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2017 International Conference on Electromechanical and Power Systems (SIELMEN)
+Y1  - 11-13 Oct. 2017
+AB  - The issue of competence assessment in engineering is analyzed in the context of the lack of motivation for learning. The source of this lack of motivation comes from the distribution of high school students. This assignment creates marginalization for a large number of students. Exit from marginalization can be accomplished through additional motivation. This is the responsibility of the competence assessment system. The proposed system is based on Bloom's taxonomy, with the questions being based on Bloom's verbs. It results an adaptive test system where questions are tailored to each individual's level of training. Another condition for generating motivation is to waive the confidentiality of ratings. The main argument is that this confidentiality supports mediocrity. A tonic competition is preferred. The author's experience demonstrates that this kind of competition is possible, especially using the gamefication. There is also the graphical image of the evolution of competence assessed, called the trajectory in the competence field. The results may have very close scores, but nevertheless the assessment can separate the full skills from the insufficient competencies without diminishing the motivating nature of the test itself.
+ER  - 
+
+TY  - CONF
+TI  - Towards Scaffolding Problem-Solving Implementation Process in Undergraduate Programming Course
+T2  - 2013 IEEE 13th International Conference on Advanced Learning Technologies
+SP  - 417
+EP  - 418
+AU  - L. -L. Hu
+AU  - S. -S. Tseng
+AU  - T. -J. Lee
+PY  - 2013
+KW  - Programming profession
+KW  - Data structures
+KW  - Problem-solving
+KW  - Educational institutions
+KW  - problem-solving learning
+KW  - computer-assisted scaffolding
+KW  - programming learning
+KW  - computer adaptive testing
+DO  - 10.1109/ICALT.2013.127
+JO  - 2013 IEEE 13th International Conference on Advanced Learning Technologies
+IS  - 
+SN  - 2161-377X
+VO  - 
+VL  - 
+JA  - 2013 IEEE 13th International Conference on Advanced Learning Technologies
+Y1  - 15-18 July 2013
+AB  - Computer programming learning is an important and challenging process for novice students. Previous approaches often address the learning problem of creating algorithm and familiarizing syntax. However, students still need the extra programming knowledge of selecting proper data structure to implement the program. In this paper, the scaffolding approach is used to assist students in comprehending the problem-solving strategy to find suitable data structure. In the experiment, 55 students participated in the two groups' pretest and posttest evaluation. The experimental results showed that the experimental group achieves higher learning achievement than the control group. The results suggest that computer-assisted scaffolding can be exploited as effective and motivational learning guidance for students.
+ER  - 
+
+TY  - JOUR
+TI  - A Sensorless Drive by Applying Test Pulses Without Affecting the Average-Current Samples
+T2  - IEEE Transactions on Power Electronics
+SP  - 875
+EP  - 888
+AU  - F. M. L. De Belie
+AU  - P. Sergeant
+AU  - J. A. Melkebeek
+PY  - 2010
+KW  - Testing
+KW  - Voltage
+KW  - Distortion measurement
+KW  - Steady-state
+KW  - Rotors
+KW  - Position measurement
+KW  - Pulse measurements
+KW  - Computational modeling
+KW  - Stators
+KW  - Sensorless control
+KW  - Current control
+KW  - high-frequency signal injection
+KW  - permanent-magnet machines
+KW  - position estimation
+KW  - sensorless control
+DO  - 10.1109/TPEL.2009.2036617
+JO  - IEEE Transactions on Power Electronics
+IS  - 4
+SN  - 1941-0107
+VO  - 25
+VL  - 25
+JA  - IEEE Transactions on Power Electronics
+Y1  - April 2010
+AB  - The rotor position of a salient-pole permanent-magnet synchronous machine (PMSM) at standstill or rotating at low speed is often estimated by measuring the responses on high-frequency test signals. In some drives, the rotor position is computed by measuring important current ripples that are generated by supplying the PMSM periodically with high-frequency voltage test pulses. Besides these ripples, undesired distortions in the average-current samples have been measured. Simulation results have revealed that these distortions are caused by a test signal, as it produces a nonzero voltage deviation from the steady-state stator voltage. In this paper, a low-speed sensorless strategy is discussed where a strong reduction of the aforementioned distortions is obtained by adapting the test signals to the steady-state stator voltage. The main assumption is that an accurate estimation of the steady-state voltage is made by using the controller output. The computation of the adaptive test signals is done by taking into account the voltage restriction of the dc-bus voltage. Simulation results, as well as experimental measurements, indicate the effectiveness of the adaptive test signals in a sensorless controlled interior PMSM.
+ER  - 
+
+TY  - CONF
+TI  - An approach to gamify an adaptive questionnaire environment
+T2  - 2016 IEEE Global Engineering Education Conference (EDUCON)
+SP  - 1129
+EP  - 1133
+AU  - P. Molins-Ruano
+AU  - F. Jurado
+AU  - P. Rodríguez
+AU  - S. Atrio
+AU  - G. M. Sacha
+PY  - 2016
+KW  - Games
+KW  - Schedules
+KW  - Context
+KW  - Adaptive systems
+KW  - Taxonomy
+KW  - Electronic learning
+KW  - Engineering education
+KW  - Gamification
+KW  - adaptive software
+KW  - e-learning
+KW  - computerized adaptive tests
+DO  - 10.1109/EDUCON.2016.7474696
+JO  - 2016 IEEE Global Engineering Education Conference (EDUCON)
+IS  - 
+SN  - 2165-9567
+VO  - 
+VL  - 
+JA  - 2016 IEEE Global Engineering Education Conference (EDUCON)
+Y1  - 10-13 April 2016
+AB  - Studies in gamified e-learning tools lack on clarifying whether Gamification improves the user engagement and therefore the learning experience, or if the success depends on the system itself, independently of the Gamification process. As an attempt to start answering these questions, we present an existing adaptive self-evaluation tool where we have observed low engagement issues by analysing students' behaviour when using it during our previous experiences. Gamification can face those issues while maintain the system essence on dynamic adaptability. With the inclusion of Gamification mechanics in our existing environment, we will be able to measure if Gamification works, or if the system performance keeps as in the not-gamified version.
+ER  - 
+
+TY  - CONF
+TI  - Adaptive Temperature-Aware SoC Test Scheduling Considering Process Variation
+T2  - 2011 14th Euromicro Conference on Digital System Design
+SP  - 197
+EP  - 204
+AU  - N. Aghaee
+AU  - Z. Peng
+AU  - P. Eles
+PY  - 2011
+KW  - Schedules
+KW  - Temperature sensors
+KW  - Temperature distribution
+KW  - Cooling
+KW  - Temperature measurement
+KW  - System-on-a-chip
+KW  - SoC test scheduling
+KW  - adaptive test
+KW  - temperature aware
+KW  - process variation
+DO  - 10.1109/DSD.2011.29
+JO  - 2011 14th Euromicro Conference on Digital System Design
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2011 14th Euromicro Conference on Digital System Design
+Y1  - 31 Aug.-2 Sept. 2011
+AB  - High temperature and process variation are undesirable effects for modern systems-on-chip. The high temperature is a prominent issue during test and should be taken care of during the test process. Modern SoCs, affected by large process variation, experience rapid and large temperature deviations and, therefore, a traditional static test schedule which is unaware of these deviations will be suboptimal in terms of speed and/or thermal-safety. This paper presents an adaptive test scheduling method which addresses the temperature deviations and acts accordingly in order to improve the test speed and thermal-safety. The proposed method is divided into a computationally intense offline-phase, and a very simple online-phase. In the offline-phase a schedule tree is constructed, and in the online-phase the appropriate path in the schedule tree is traversed, step by step and based on temperature sensor readings. Experiments have demonstrated the efficiency of the proposed method.
+ER  - 
+
+TY  - JOUR
+TI  - Dynamic Random Testing: Technique and Experimental Evaluation
+T2  - IEEE Transactions on Reliability
+SP  - 872
+EP  - 892
+AU  - H. Pei
+AU  - K. -Y. Cai
+AU  - B. Yin
+AU  - A. P. Mathur
+AU  - M. Xie
+PY  - 2019
+KW  - Fault detection
+KW  - Software testing
+KW  - Feedback
+KW  - Computational efficiency
+KW  - Probability
+KW  - Dynamic random testing (DRT)
+KW  - random partition testing (RPT)
+KW  - software cybernetics
+KW  - testing profiles
+DO  - 10.1109/TR.2019.2911593
+JO  - IEEE Transactions on Reliability
+IS  - 3
+SN  - 1558-1721
+VO  - 68
+VL  - 68
+JA  - IEEE Transactions on Reliability
+Y1  - Sept. 2019
+AB  - A particularly good software testing strategy is to achieve the underlying testing goal while solving the problems of tradeoffs between testing effectiveness and efficiency. To improve the fault detection effectiveness of software testing, the principle of feedback control theory was adopted, which motivated the proposal of dynamic random testing (DRT). The main idea behind DRT is using the testing results to guide the test case selection to increase the selection probabilities of the subdomains with higher fault detection rates. Previous works show that DRT strategy can achieve better effectiveness than random testing strategy and random partition testing strategy, and has significantly lower computational costs than adaptive testing strategy. However, the essential factors that affect the performance of DRT, i.e., adjusting parameters, initial profile, and test case classification have not been thoroughly investigated. Besides, some experimental assumptions are inconsistent with real scenarios. Therefore, this paper gives a series of investigations on DRT with a set of practical subject programs. More specifically, the effectiveness and efficiency of DRT are presented, and the extended experiments on DRT with relevant factors are conducted. The results indicate that the effectiveness of DRT is robust to different initial profiles and affected noticeably by the adjusting parameter settings and test case classification methods.
+ER  - 
+
+TY  - CONF
+TI  - A Conceptual Design of Multi-Agent Based Personalized Quiz Game
+T2  - 2011 IEEE 11th International Conference on Advanced Learning Technologies
+SP  - 19
+EP  - 21
+AU  - M. M. Weng
+AU  - I. Fakinlede
+AU  - F. Lin
+AU  - T. K. Shih
+AU  - M. Chang
+PY  - 2011
+KW  - Games
+KW  - Context
+KW  - Computers
+KW  - Education
+KW  - Databases
+KW  - Computer architecture
+KW  - Multiagent systems
+KW  - multi-agent systems
+KW  - immersive game-based virtual learning environments
+KW  - formative assessment
+KW  - quiz games
+DO  - 10.1109/ICALT.2011.14
+JO  - 2011 IEEE 11th International Conference on Advanced Learning Technologies
+IS  - 
+SN  - 2161-377X
+VO  - 
+VL  - 
+JA  - 2011 IEEE 11th International Conference on Advanced Learning Technologies
+Y1  - 6-8 July 2011
+AB  - This paper presents the conceptual design of a virtual 3D quiz game based on a multi-agent system (MAS) architecture aptly named QuizMASter. The QuizMASter supports formative assessment by providing adaptive testing and feedback using intelligent pedagogical agents within an immersive game-based virtual learning environment. This enables instructors to use assessment as a motivational tool within an entertaining context where students do not feel the usual pressures related to taking tests.
+ER  - 
+
+TY  - CONF
+TI  - An Effective Multimedia Item Shell Design for Individualized Education
+T2  - 2007 IEEE International Conference on Multimedia and Expo
+SP  - 1842
+EP  - 1845
+AU  - I. Cheng
+AU  - A. Basu
+PY  - 2007
+KW  - Multimedia databases
+KW  - Computer science education
+KW  - Materials testing
+KW  - Multimedia computing
+KW  - Information science
+KW  - Programming profession
+KW  - Costs
+KW  - Scalability
+KW  - Application software
+KW  - Runtime
+DO  - 10.1109/ICME.2007.4285032
+JO  - 2007 IEEE International Conference on Multimedia and Expo
+IS  - 
+SN  - 1945-788X
+VO  - 
+VL  - 
+JA  - 2007 IEEE International Conference on Multimedia and Expo
+Y1  - 2-5 July 2007
+AB  - The advantages of creating multimedia item types and applying computer-based adaptive testing in education are: First, the capability to motivate learning by making the learners feel more engaged and interactive, as well as a better representation of concepts, which are not possible when using conventional multiple choice tests. Second, instead of following a curriculum designed for average students, an individual is given a customized curriculum suitable for his or her learning capability. However, the issue to address when achieving these goals is the enormous amount of item types required to transform the current multiple choice questions into multimedia formats, and the criteria used to determine the difficulty level of a multimedia question item. In this paper we propose a multimedia item shell design that not only reduces the number of item types required, but also computes difficulty level of an item automatically. The concept of question seed is also introduced to make content creation more cost-effective.
+ER  - 
+
+TY  - CONF
+TI  - An overview of software cybernetics
+T2  - Eleventh Annual International Workshop on Software Technology and Engineering Practice
+SP  - 77
+EP  - 86
+AU  - Kai-Yuan Cai
+AU  - J. W. Cangussu
+AU  - R. A. DeCarlo
+AU  - A. P. Mathur
+PY  - 2003
+KW  - Cybernetics
+KW  - Communication system control
+KW  - Control systems
+KW  - Programmable control
+KW  - Adaptive control
+KW  - Software testing
+KW  - Communication system software
+KW  - Software performance
+KW  - Feedback
+KW  - Controllability
+DO  - 10.1109/STEP.2003.4
+JO  - Eleventh Annual International Workshop on Software Technology and Engineering Practice
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - Eleventh Annual International Workshop on Software Technology and Engineering Practice
+Y1  - 19-21 Sept. 2003
+AB  - Software cybernetics explores the interplay between software and control and is motivated by the fundamental question whether or not and how software behavior can be controlled. In this paper, we formulate the underlying motivations and ideas of software cybernetics and review various existing research topics in this emerging area, including feedback mechanisms in software processes, bisimulation and controllability, adaptive software, software synthesis, software test process control, and adaptive testing. We identify software rejuvenation and performance control, software fault-tolerance, logical foundation for control systems, and communication complexity for control systems as potential research topics. Several on-going research projects are also summarized.
+ER  - 
+
+TY  - JOUR
+TI  - Changing test and data modeling requirements for screening latent defects as statistical outliers
+T2  - IEEE Design & Test of Computers
+SP  - 100
+EP  - 109
+AU  - R. P. Turakhia
+AU  - W. R. Daasch
+AU  - J. Lurkins
+AU  - B. Benware
+PY  - 2006
+KW  - Logic testing
+KW  - Statistical analysis
+KW  - Application specific integrated circuits
+KW  - Manufacturing
+KW  - Frequency
+KW  - Logic devices
+KW  - Delay
+KW  - Stress measurement
+KW  - Microelectronics
+KW  - Large scale integration
+KW  - reliability
+KW  - statistical outlier screening
+KW  - data modeling
+KW  - adaptive testing
+DO  - 10.1109/MDT.2006.37
+JO  - IEEE Design & Test of Computers
+IS  - 2
+SN  - 1558-1918
+VO  - 23
+VL  - 23
+JA  - IEEE Design & Test of Computers
+Y1  - March-April 2006
+AB  - The expanded role of test demands a significant change in mind-set of nearly every engineer involved in the screening of semiconductor products. The issues to consider range from DFT and ATE requirements, to the design and optimization of test patterns, to the physical and statistical relationships of different tests, and finally, to the economics of reducing test time and cost. The identification of outliers to isolate latent defects will likely increase the role of statistical testing in present and future technologies. An emerging opportunity is to use statistical analysis of parametric measurements at multiple test corners to improve the effectiveness and efficiency of testing and reliability defect stressing. In this article, we propose a "statistical testing" framework that combines testing, analysis, and optimization to identify latent-defect signatures. We discuss the required characteristics of statistical testing to isolate the embedded-outlier population; test conditions and test application support for the statistical-testing framework; and the data modeling for identifying the outliers.
+ER  - 
+
+TY  - CONF
+TI  - Ontology-based adaptive examination system in e-learning management systems
+T2  - 2015 IEEE Seventh International Conference on Intelligent Computing and Information Systems (ICICIS)
+SP  - 243
+EP  - 250
+AU  - E. Khater
+AU  - A. Hegazy
+AU  - M. E. Shehab
+PY  - 2015
+KW  - Ontologies
+KW  - Wheels
+KW  - Databases
+KW  - Adaptive systems
+KW  - Cognition
+KW  - Sociology
+KW  - Statistics
+KW  - CAT
+KW  - Ontology
+KW  - e-learning
+DO  - 10.1109/IntelCIS.2015.7397228
+JO  - 2015 IEEE Seventh International Conference on Intelligent Computing and Information Systems (ICICIS)
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 2015 IEEE Seventh International Conference on Intelligent Computing and Information Systems (ICICIS)
+Y1  - 12-14 Dec. 2015
+AB  - E-learning environment is spreading in education process especially adaptive e-learning systems. This approach of learning means that learning content is created and distributed in a very different manner to comply with differences among individuals. Providing personalized content is the major research topic for a huge no. of researchers. And sequentially is Computer adaptive test (CAT). Almost all of (CAT) systems' aim is to measure the examinees' ability to solve the selected questions regardless the quality of the learning process. Their objective is to choose the items which have the high probability to be solved with the current ability estimation. The proposed system aim is to measure the examinees' knowledge outcome in addition to evaluate the course itself in order to improve integrity of learning process pipe lines. Evaluating instructors is not based only on survey forms which may be affected by some good or bad feelings; but it also depends some scientific methods.
+ER  - 
+
+TY  - CONF
+TI  - SAT-based analysis of sensitisable paths
+T2  - 14th IEEE International Symposium on Design and Diagnostics of Electronic Circuits and Systems
+SP  - 93
+EP  - 98
+AU  - M. Sauer
+AU  - A. Czutro
+AU  - T. Schubert
+AU  - S. Hillebrecht
+AU  - I. Polian
+AU  - B. Becker
+PY  - 2011
+KW  - Logic gates
+KW  - Delay
+KW  - Encoding
+KW  - Circuit faults
+KW  - Optimization
+KW  - Digital TV
+KW  - Programmable logic arrays
+DO  - 10.1109/DDECS.2011.5783055
+JO  - 14th IEEE International Symposium on Design and Diagnostics of Electronic Circuits and Systems
+IS  - 
+SN  - 
+VO  - 
+VL  - 
+JA  - 14th IEEE International Symposium on Design and Diagnostics of Electronic Circuits and Systems
+Y1  - 13-15 April 2011
+AB  - Manufacturing defects in nanoscale technologies have highly complex timing behaviour that is also affected by process variations. While conventional wisdom suggests that it is optimal to detect a delay defect through the longest sensitisable path, non-trivial defect behaviour along with modelling inaccuracies necessitate consideration of paths of well-controlled length during test generation. We present a generic methodology that yields tests through all sensitisable paths of user-specified length. The resulting tests can be employed within the framework of adaptive testing. The methodology is based on encoding the problem as a Boolean-satisfiability (SAT) instance and thereby leverages recent advances in SAT-solving technology.
+ER  - 
+
+TY  - JOUR
+TI  - Interactive Multimedia for Adaptive Online Education
+T2  - IEEE MultiMedia
+SP  - 16
+EP  - 25
+AU  - I. Cheng
+AU  - A. Basu
+AU  - R. Goebel
+PY  - 2009
+KW  - Computer science education
+KW  - Educational institutions
+KW  - System testing
+KW  - Electronic learning
+KW  - Cultural differences
+KW  - Research and development
+KW  - Automatic testing
+KW  - North America
+KW  - Multimedia systems
+KW  - Pervasive computing
+DO  - 10.1109/MMUL.2009.11
+JO  - IEEE MultiMedia
+IS  - 1
+SN  - 1941-0166
+VO  - 16
+VL  - 16
+JA  - IEEE MultiMedia
+Y1  - Jan.-March 2009
+AB  - Interactive multimedia content can help improve learning performance by enhancing user satisfaction and engagement. Multimedia content also can help improve concept representation, which is not possible in conventional multiple-choice and fill-in-the-blank formats. In this article, we present a broader view of multimedia education, focusing on future applications. Our vision is to provide publicly accessible education anywhere, at anytime, and to anyone. To realize this vision, we propose the Computer Reinforced Online Multimedia Education (Crome) framework, which integrates the main components of education, including learning, teaching, and testing, as well as adaptive testing and student modeling.
+ER  - 
+
+TY  - CONF
+TI  - Adaptive Source Bias for Improved Resistive-Open Defect Coverage during SRAM Testing
+T2  - 2013 22nd Asian Test Symposium
+SP  - 109
+EP  - 114
+AU  - E. I. Vatajelu
+AU  - L. Dilillo
+AU  - A. Bosio
+AU  - P. Girard
+AU  - A. Todri
+AU  - A. Virazel
+AU  - N. Badereddine
+PY  - 2013
+KW  - MOSFET
+KW  - Threshold voltage
+KW  - Circuit faults
+KW  - Testing
+KW  - SRAM cells
+KW  - 6T SRAM Cell
+KW  - Adaptive Test
+KW  - Resistive-open Defects
+KW  - Source-Biasing
+DO  - 10.1109/ATS.2013.30
+JO  - 2013 22nd Asian Test Symposium
+IS  - 
+SN  - 2377-5386
+VO  - 
+VL  - 
+JA  - 2013 22nd Asian Test Symposium
+Y1  - 18-21 Nov. 2013
+AB  - SRAM testing is becoming more and more challenging due to issues caused by continuous device scaling. Fabricated SRAMs are submitted to random and systematic process variability, which strongly affect the cell's behavior and also the ability of test algorithms to detect faults. Traditionally, bias conditions have been used to improve the behavior of the SRAM under process variations by applying body bias to compensate for the effect of variability. Based on the same principle, bias conditions also affect the cell's behavior when resistive-opens are present, hence affecting test's defect coverage capability. Both body- and source-bias conditions are analyzed in this paper to find the way to improve defect detect ability in the SRAM cell. Source-biasing has been proven to be the more effective of the two, leading to more than 3X improvement of the defect detected value. Also, by adapting the source-bias conditions to process parameter values, over- and under-testing of the SRAM can be avoided.
+ER  - 
+
+TY  - CONF
+TI  - Innovative practices session 3C: Industrial practices of test cost reduction techniques: Impact and design tradeoffs
+T2  - 2010 28th VLSI Test Symposium (VTS)
+SP  - 123
+EP  - 123
+AU  - S. Tammali
+PY  - 2010
+DO  - 10.1109/VTS.2010.5469600
+JO  - 2010 28th VLSI Test Symposium (VTS)
+IS  - 
+SN  - 2375-1053
+VO  - 
+VL  - 
+JA  - 2010 28th VLSI Test Symposium (VTS)
+Y1  - 19-22 April 2010
+AB  - Test cost is becoming increasingly significant percentage of COB (Cost of Build) in current SoCs (System-on-a-Chip). This is even critical in low cost markets like consumer devices. This session covers test cost reduction strategy that can be adopted on a typical semiconductor product, during design and post-silicon phases. Test cost reduction during design phase includes, adoption of right DFT (Design-For-Test) architectures and technologies, target ATE (Automated Test Equipment) selection and design for compliance for targeted ATE. DFT architectural aspects that can impact test cost reduction are multi-site configuration, concurrent tests, scan compression technology, IDDQ strategy, memory test and repair solution. Critical challenges of these techniques and design impact like gate count overhead, robust power grid design, route-ability and diagnose-ability would be covered. The impact of these techniques is quantified at SOC level, from test cost point of view. Post-silicon test cost reduction techniques include approaches like vector elimination based on statistical analysis of COF (Continue-on-Fail) data and program trimming techniques to optimize test program. Vector elimination directly affects DPPM (Defective Parts Per Million) requirements and hence needs to be handled carefully. Another powerful post-silicon technique that can reduce test time and improve yield is adaptive test. Adaptive tests include techniques like a) on-line statistical sampling, which can selectively skip tests that statistically never fail b) outlier detection and extraction, which helps to eliminate expensive reliability tests like burn-in. Adaptive tests can also be used to improve the yield by off-setting tester parameters as per site2site variations and using fab PCM (Process Control Monitor) data to optimize the device for performance and power through appropriate trimming. As the design community is pushing for higher concurrent and higher compression goals, test power is becoming a major consideration. While EDA solutions like low power ATPG is prevalent in industry, comprehensive test power architecture advisor, which can guide designer to architect DFT solutions which is optimal from both test time and test power is the need of the industry. Current state of solution on this problem is covered in this session.
+ER  - 
+
+TY  - CONF
+TI  - Graph-constrained group testing
+T2  - 2010 IEEE International Symposium on Information Theory
+SP  - 1913
+EP  - 1917
+AU  - M. Cheraghchi
+AU  - A. Karbasi
+AU  - S. Mohajer
+AU  - V. Saligrama
+PY  - 2010
+KW  - Tomography
+KW  - Application software
+KW  - Software testing
+KW  - System testing
+KW  - Graph theory
+KW  - Communication industry
+KW  - Computer industry
+KW  - Quality assurance
+KW  - DNA
+KW  - Software libraries
+DO  - 10.1109/ISIT.2010.5513397
+JO  - 2010 IEEE International Symposium on Information Theory
+IS  - 
+SN  - 2157-8117
+VO  - 
+VL  - 
+JA  - 2010 IEEE International Symposium on Information Theory
+Y1  - 13-18 June 2010
+AB  - Non-adaptive group testing involves grouping arbitrary subsets of n items into different pools and identifying defective items based on tests obtained for each pool. Motivated by applications in network tomography, sensor networks and infection propagation we formulate non-adaptive group testing problems on graphs. Unlike conventional group testing problems each group here must conform to the constraints imposed by a graph. For instance, items can be associated with vertices and each pool is any set of nodes that must be path connected. In this paper we associate a test with a random walk. In this context conventional group testing corresponds to the special case of a complete graph on n vertices. For interesting classes of graphs we arrive at a rather surprising result, namely, that the number of tests required to identify d defective items is substantially similar to that required in conventional group testing problems, where no such constraints on pooling is imposed. Specifically, if T(n) corresponds to the mixing time of the graph G, we show that with m = O(d2T2(n) log(n/d)) non-adaptive tests, one can identify the defective items. Consequently, for the Erdõs-Rényi random graph G(n, p), as well as expander graphs with constant spectral gap, it follows that m = O(d2 log3 n) non-adaptive tests are sufficient to identify d defective items. We next consider a specific scenario that arises in network tomography and show that m = O(d3 log3 n) non-adaptive tests are sufficient to identify d defective items. We also consider noisy counterparts of the graph constrained group testing problem and develop parallel results for these cases.
+ER  - 
+
+TY  - CONF
+TI  - Concerns over predictability of supply and quality
+T2  - 2014 International Test Conference
+SP  - 1
+EP  - 1
+AU  - C. Bowen
+PY  - 2014
+DO  - 10.1109/TEST.2014.7035288
+JO  - 2014 International Test Conference
+IS  - 
+SN  - 2378-2250
+VO  - 
+VL  - 
+JA  - 2014 International Test Conference
+Y1  - 20-23 Oct. 2014
+AB  - Adaptive test seems a logical solution to address the challenge of increasing IP complexity and shrinking test time budgets. Might slow adoption be a consequence of the Engineering community focus on technical implementation methods, at the expense of addressing the emotional concerns of the Quality and Supply Chain community?
+ER  - 
+
+TY  - JOUR
+TI  - Graph-Constrained Group Testing
+T2  - IEEE Transactions on Information Theory
+SP  - 248
+EP  - 262
+AU  - M. Cheraghchi
+AU  - A. Karbasi
+AU  - S. Mohajer
+AU  - V. Saligrama
+PY  - 2012
+KW  - Testing
+KW  - Vectors
+KW  - Sparse matrices
+KW  - Wireless sensor networks
+KW  - Tomography
+KW  - Graph theory
+KW  - Routing
+KW  - Group testing
+KW  - network tomography
+KW  - random walks
+KW  - sensor networks
+KW  - sparse recovery
+DO  - 10.1109/TIT.2011.2169535
+JO  - IEEE Transactions on Information Theory
+IS  - 1
+SN  - 1557-9654
+VO  - 58
+VL  - 58
+JA  - IEEE Transactions on Information Theory
+Y1  - Jan. 2012
+AB  - Nonadaptive group testing involves grouping arbitrary subsets of n items into different pools. Each pool is then tested and defective items are identified. A fundamental question involves minimizing the number of pools required to identify at most d defective items. Motivated by applications in network tomography, sensor networks and infection propagation, a variation of group testing problems on graphs is formulated. Unlike conventional group testing problems, each group here must conform to the constraints imposed by a graph. For instance, items can be associated with vertices and each pool is any set of nodes that must be path connected. In this paper, a test is associated with a random walk. In this context, conventional group testing corresponds to the special case of a complete graph on n vertices. For interesting classes of graphs a rather surprising result is obtained, namely, that the number of tests required to identify d defective items is substantially similar to what is required in conventional group testing problems, where no such constraints on pooling is imposed. Specifically, if T(n) corresponds to the mixing time of the graph G, it is shown that with m = O(d2T2(n) log(n/d)) nonadaptive tests, one can identify the defective items. Consequently, for the Erdos-Rényi random graph G(n, p), as well as expander graphs with constant spectral gap, it follows that m = O(d2 log3 n) non-adaptive tests are sufficient to identify d defective items. Next, a specific scenario is considered that arises in network tomography, for which it is shown that m = O(d3 log3 n) nonadaptive tests are sufficient to identify d defective items. Noisy counterparts of the graph constrained group testing problem are considered, for which parallel results are developed. We also briefly discuss extensions to compressive sensing on graphs.
+ER  - 
+
+TY  - CONF
+TI  - Coevolution and Tartarus
+T2  - Proceedings of the 2004 Congress on Evolutionary Computation (IEEE Cat. No.04TH8753)
+SP  - 1618
+EP  - 1624 Vol.2
+AU  - D. Ashlock
+AU  - S. Willson
+AU  - N. Leahy
+PY  - 2004
+KW  - Evolutionary computation
+KW  - Testing
+KW  - Data structures
+KW  - Sorting
+KW  - Mathematics
+KW  - Evolution (biology)
+KW  - Robots
+KW  - Genetics
+KW  - Performance evaluation
+KW  - Algorithm design and analysis
+DO  - 10.1109/CEC.2004.1331089
+JO  - Proceedings of the 2004 Congress on Evolutionary Computation (IEEE Cat. No.04TH8753)
+IS  - 
+SN  - 
+VO  - 2
+VL  - 2
+JA  - Proceedings of the 2004 Congress on Evolutionary Computation (IEEE Cat. No.04TH8753)
+Y1  - 19-23 June 2004
+AB  - Coevolution is the process of mutual adaptation of two populations. When a difficult optimization is performed with evolutionary computation, a population of adaptive test cases can strongly affect the progress of evolution. This study applies coevolution to the Tartarus task, a grid robot test problem. If the coevolving test cases are viewed as a form of parasite, then the question of virulence becomes an important feature of the algorithm. This study compares different types of parasites for the Tartarus problem. The impact of coevolution in this study is at odds with intuition and statistically significant. Analysis of the different types of coevolution suggests that disruptive crossover has a key effect. In the presence of disruptive crossover, coevolution may need to be modified to be effective. Examples of these modifications are presented. The key method of dealing with disruptive crossover is tracking the age of the Tartarus agents. The age of an agent is defined to be the number of selection steps the agent has survived. Using only older agents to drive coevolution of test cases substantially enhances the performance of one of the two type of coevolution studied.
+ER  - 
+
+TY  - CONF
+TI  - SAROS: A social-aware opportunistic forwarding simulator
+T2  - 2016 IEEE Wireless Communications and Networking Conference
+SP  - 1
+EP  - 7
+AU  - S. A. Ayyat
+AU  - S. G. Aly
+AU  - K. A. Harras
+PY  - 2016
+KW  - Batteries
+KW  - Mobile communication
+KW  - Power demand
+KW  - Object oriented modeling
+KW  - Mobile computing
+KW  - Mobile handsets
+KW  - Measurement
+DO  - 10.1109/WCNC.2016.7564762
+JO  - 2016 IEEE Wireless Communications and Networking Conference
+IS  - 
+SN  - 1558-2612
+VO  - 
+VL  - 
+JA  - 2016 IEEE Wireless Communications and Networking Conference
+Y1  - 3-6 April 2016
+AB  - Many applications are being developed to leverage the popularity of mobile opportunistic networks. However, building adaptive testbeds can be costly and challenging. This challenge motivates the need for effective opportunistic network simulators to provide a variety of opportunistic environment setups, and evaluate proposed applications and protocols with a comprehensive set of metrics. This paper presents SAROS, a simulator of opportunistic networking environments with a variety of interest distributions, power consumption distributions, imported real traces, and social network integration. The simulator provides a wide variety of evaluation metrics that are not offered by comparable simulators. Finally, SAROS also implements several opportunistic forwarding algorithms ranging from social-oblivious algorithms to interest and power-aware social-based algorithms.
+ER  - 
+
+TY  - JOUR
+TI  - Guest Editors' Introduction: Intelligent Educational Systems of the Present and Future
+T2  - IEEE Intelligent Systems
+SP  - 20
+EP  - 21
+AU  - L. Aroyo
+AU  - A. Graesser
+AU  - L. Johnson
+PY  - 2007
+KW  - Intelligent systems
+KW  - Computational intelligence
+KW  - System testing
+KW  - Animation
+KW  - Virtual environment
+KW  - Educational institutions
+KW  - Multimedia systems
+KW  - Computational modeling
+KW  - Computer simulation
+KW  - Intelligent agent
+KW  - personalization
+KW  - adaptation
+KW  - 3D educational virtual environments
+KW  - student modeling
+KW  - constraint-based ITS
+KW  - adaptive testing
+KW  - affective computing
+KW  - collaborative intelligent tutoring systems
+DO  - 10.1109/MIS.2007.70
+JO  - IEEE Intelligent Systems
+IS  - 4
+SN  - 1941-1294
+VO  - 22
+VL  - 22
+JA  - IEEE Intelligent Systems
+Y1  - July-Aug. 2007
+AB  - Education in the 21st century faces an increasing number of challenges that require intelligent systems. The learning environments of today and tomorrow must handle distributed and dynamically changing content, a geographical dispersion of students and teachers, and generations of learners who spend hours a day interacting with multimillion-dollar multimedia environments. The new learning environments are moving beyond kindergarten through college classrooms to distance learning, lifelong education, and on-the-job training; they're entering the multifaceted universe of virtual worlds and ambient spaces. The articles in this special issue report novel, cutting-edge, intelligent learning environments. The systems not only have intelligent computational architectures but also are empirically tested on humans. Empirical research is of course essential to test system fidelity in delivering the intended pedagogy and to assess learning gains, usability, and learner satisfaction. This article is part of a special issue on intelligent educational systems.
+ER  - 
+
+

@@ -1,0 +1,451 @@
+Provider: PubPsych ZPID
+Content:text/plain; charset="UTF-8"
+
+
+
+
+Treffer: 1
+TY  - GEN
+N1  - DFK_9006103
+TI  - ATEM - Adaptiver Test zur Erfassung von Emotionsregulation. (PSYNDEX Tests Info)
+AU  - Knapp-Rudolph, M.
+N1  - ATEM. Adaptiver Test zur Erfassung von Emotionsmanagement; Weiterentwicklung und Konstruktvalidierung eines EDV-gestützten Verfahrens zur Erfassung eines Bereiches Emotionaler Intelligenz als Fähigkeit. Digitale Dissertation, Universität Heidelberg, Fakultät für Verhaltens- und Empirische Kulturwissenschaften.
+N1  -  Bezugsquelle: Das Verfahren wird beschrieben bei Knapp-Rudolph (2008, S. 32 ff.). Eine Beispiel-Testaufgabe ist bei Knapp-Rudolph, Steinmayr und Amelang (2008, S. 147-148) dargestellt.
+UR  - http://archiv.ub.uni-heidelberg.de/volltextserver/volltexte/2009/8913/pdf/Dissertationsscript_PDF.pdf
+PY  - 2008
+DB  - PSYNDEX
+ER  - 
+
+Treffer: 2
+TY  - JOUR
+N1  - DFK_0399973
+TI  - The adaptive test of emotion knowledge for 3-to 9-year-olds: Psychometric properties and validity
+AU  - Voltmer, Katharina
+AU  - von Salisch, Maria
+T2  - Frontiers in Psychiatry, 2022
+DA  - 13
+N1  - Frontiers in Psychiatry, 2022, 13, No. 901304
+N1  - 108 Literaturang.
+UR  - https://doi.org/10.3389/fpsyt.2022.901304
+PY  - 2022
+DB  - PSYNDEX
+ER  - 
+
+Treffer: 3
+TY  - BOOK
+N1  - DFK_0381333
+TI  - ATEM 3-9 Adaptiver Test des Emotionswissens. Manual
+AU  - Voltmer, Katharina
+AU  - von Salisch, Maria
+N1  - Berlin, Heidelberg: Springer, 2021
+N1  - 74 S., 6 S. Anhang, EUR 58,99 (Print), EUR 46,99 (eBook) [SpringerTests] 
+UR  - https://doi.org/10.1007/978-3-662-59358-5
+PY  - 2021
+AB  - Der ATEM 3-9 ist ein Test des Emotionswissens für Kinder im Alter zwischen drei und neun Jahren. Er ist nach der Item-Response-Theorie aufgebaut und hat ein adaptives Design. Er umfasst sieben Komponenten: das Erkennen von Emotionen in der Mimik anderer Menschen, das Erkennen von Situationen als Emotionsauslösern, das (Nicht-) Erfüllen von Wünschen als Emotionsauslöser, gemischte Emotionen, Überzeugungen als Emotionsauslöser, Wissen über Ausdrucksregeln von Emotionen, Wissen über Emotionsregulationsstrategien. In diesen Komponenten wird das Emotionswissen über die Emotionen Freude, Trauer, Ärger, Angst, Ekel und Überraschung abgefragt Die Items des Tests sind in eine für Kinder ansprechend gestaltete Geschichte eingebettet und steigen in ihrer Schwierigkeit entsprechende der Entwicklung des Emotionswissens im Vor- und Grundschulalter an. (c) Springer-Verlag GmbH Deutschland - Inhalt: (1) Theoretischer Hintergrund (Entwicklung des Emotionswissens in der Kindheit; Bedeutung des Emotionswissens für die kindliche Entwicklung; Geschlecht und Emotionswissen; Soziokulturelle Unterschiede und Emotionswissen; Messung des Emotionswissens bei Kindern). (2) Beschreibung des ATEM 3-9. (3) Testtheoretische Analyse des ATEM 3-9. (4) Normierung des ATEM 3-9 (Normstichprobe; Testabbrüche und Bearbeitungszeiten; Rohwertverteilung; Gruppenunterschiede in den Rohwerten). (5) Validität des ATEM 3-9 (Zusammenhänge mit weiteren Instrumenten zur Erfassung des Emotionswissens; Zusammenhänge mit sprachlichen Fähigkeiten; Zusammenhänge mit exekutiven Funktionen; Emotionswissen bei Kindern mit einer psychischen Störung). (6) Anwendung des ATEM 3-9 (Indikationsmerkmale; Anwendungsfelder; Durchführung; Auswertung; Systematische Falschantworten; Fehlende Werte; Interpretation). (c) ZPID
+DB  - PSYNDEX
+ER  - 
+
+Treffer: 4
+TY  - JOUR
+N1  - DFK_0200098
+TI  - Development and evaluation of a computer adaptive test for &quot;Anxiety&quot; (Anxiety-CAT)
+AU  - Walter, Otto B.
+AU  - Becker, Janine
+AU  - Bjorner, Jakob B.
+AU  - Fliege, Herbert
+AU  - Klapp, Burghard F.
+AU  - Rose, Matthias
+T2  - Quality of Life Research
+DA  - 2007
+VL  - 16
+IS  - Supplement 1
+SP  - 143-155
+N1  - Quality of Life Research, 2007, 16 (Supplement 1), 143-155
+N1  - 60 Literaturang.
+UR  - https://link.springer.com/journal/11136
+PY  - 2007
+AB  - Within the framework of item response theory (IRT), the authors developed a German version of an item bank, as well as a software application that can be employed to measure anxiety by means of a computer adaptive test (CAT). A sample of n = 2348 psychiatric and psychosomatic patients answered a set of up to 13 standardized questionnaires. 81 items drawn from these questionnaires were considered pertinent to the anxiety construct. Various tests were conducted to ensure the suitability of these items for an IRT-based assessment. After these tests, 50 items remained in the item bank and were calibrated using the generalized partial credit model. Simulation studies conducted on an independent sample of n = 1528 respondents indicate that 6-8 items suffice to measure the latent trait with high precision (standard error &lt;= 0.32). CAT scores correlated highly with scores estimated from all available items (r = .97) and scale scores of the State Trait Anxiety Inventory (STAI, state scale, r = .93). Within a routine clinical setting, 102 inpatients answered the Anxiety-CAT along with a number of established anxiety questionnaires. The correlation between the Anxiety-CAT and the STAI state scale was still high (r = .60), but lower than the correlations found in the simulation studies. The Anxiety-CAT was able to differentiate between mental health disorders in a similar manner as established questionnaires. The results suggest that the Anxiety-CAT does indeed exhibit the advantages expected from theory, but the results of further studies are needed in order to judge its full potential for research and clinical practice.
+DB  - PSYNDEX
+ER  - 
+
+Treffer: 5
+TY  - JOUR
+N1  - DFK_0273668
+TI  - Development and evaluation of a computer adaptive test to assess anxiety in cardiovascular rehabilitation patients
+AU  - Abberger, Birgit
+AU  - Haschke, Anne
+AU  - Wirtz, Markus
+AU  - Kroehne, Ulf
+AU  - Bengel, Juergen
+AU  - Baumeister, Harald
+T2  - Archives of Physical Medicine and Rehabilitation
+DA  - 2013
+VL  - 94
+IS  - 12
+SP  - 2433-2439
+N1  - Archives of Physical Medicine and Rehabilitation, 2013, 94 (12), 2433-2439
+UR  - https://www.psychauthors.de/psychauthors/index.php?wahl=forschung&amp;uwahl=psychauthors&amp;uuwahl=p07355MW
+UR  - https://doi.org/10.1016/j.apmr.2013.07.009
+PY  - 2013
+DB  - PSYNDEX
+ER  - 
+
+Treffer: 6
+TY  - JOUR
+N1  - DFK_0218783
+TI  - Evaluation of a computer-adaptive test for the assessment of depression (D-CAT) in clinical application
+AU  - Fliege, Herbert
+AU  - Becker, Janine
+AU  - Walter, Otto B.
+AU  - Rose, Matthias
+AU  - Bjorner, Jakob B.
+AU  - Klapp, Burghard F.
+T2  - International Journal of Methods in Psychiatric Research
+DA  - 2009
+VL  - 18
+IS  - 1
+SP  - 23-36
+N1  - International Journal of Methods in Psychiatric Research, 2009, 18 (1), 23-36
+N1  - 52 Literaturang.
+UR  - https://doi.org/10.1002/mpr.274
+PY  - 2009
+AB  - Validated the pilot version of an computer-adaptive testing algorithm for depression (D-CAT) in everyday clinical practice and examined patients' acceptance of computerized test administration. 537 participants (mean age 42 years) suffering from either depressive disorders, somatoform disorders, adjustment disorders/stress reactions, eating disorders, anxiety disorders, dissociative disorders, substance abuse, and unspecified psychiatric disorders completed the D-CAT and rated 10 statements assessing practical, cognitive, and emotional aspects involved in computer-adaptive item administration. German versions of the Hospital Anxiety and Depression Scale (HADS), the Center for Epidemiological Studies Depression (CES-D) scale, and the Beck Depression Inventory (BDI) were administered to test convergent validity. A subsample of 114 patients was additionally evaluated using the Composite International Diagnostic Interview (CIDI). Results showed a high overall acceptance of the use of the personal digital assistant and of the mode of item presentation. A predefined reliability of .90 was attained after an average of 6 administered items. Reliable score estimates were possible with 10 or fewer items in 95% of cases. Moreover, convergent validity ranged from r=.68 to r=.77. The D-CAT discriminated between diagnostic groups as well as the other measures did. The D-CAT is considered a short and precise measure of depressive symptoms.
+DB  - PSYNDEX
+ER  - 
+
+Treffer: 7
+TY  - GEN
+N1  - DFK_0181191
+TI  - Entwicklung eines computeradaptiven Tests zur Erfassung von Stresserleben (Stress-CAT)
+AU  - Kocalevent, Rüya-Daniela
+N1  - Berlin: Freie Universität, Fachbereich Erziehungswissenschaft und Psychologie, 2005
+N1  - 95 S., 73 S. Anhang Elektronische Publikation im Internet
+N1  - Etwa 200 Literaturang.
+UR  - http://www.diss.fu-berlin.de/2005/206/index.html
+PY  - 2005
+AB  - Es wird informiert über die Entwicklung des computer-adaptiven Tests zur Erfassung von Stresserleben (Stress-CAT). Daten wurden an einer Stichprobe von 1092 Patientinnen und Patienten erhoben, die an einer Medizinischen Klinik mit Schwerpunkt Psychosomatik im Rahmen der Routinediagnostik eine umfangreiche Batterie etablierter konventioneller Fragebögen computergestützt beantwortet hatten. Die Eigenschaften dieser Items wurden anhand ihrer residualen Korrelationen nach konfirmatorischer Faktorenanalyse, ihrer Antwortkategorienfunktion und ihrer Diskriminationsfähigkeit überprüft. Von insgesamt 126 Items verblieben 38 Items in der finalen Itembank in der Dimension &quot;erlebte Belastung&quot; und 31 Items in der Dimension &quot;Belastungsreaktion&quot;, die für die Anwendung eines Zwei-Parameter-Modells (Generalized-Partial-Credit-Model) als geeignet angesehen wurden. In Simulationsexperimenten zeigte sich, dass der Stress-CAT mit durchschnittlich 10 plus-minus 1,7$ Items aus der Itembank im Bereich von plus-minus 2 Standardabweichungen um den Populationsmittelwert für die Dimension &quot;erlebte Belastung&quot; und mit durchschnittlich 8 plus-minus 2,2$ Items für die Dimension &quot;Belastungsreaktion&quot; CAT-Scores mit einem Standardmessfehler von .32 (Reliabilität .90) schätzen kann. Zudem zeigten die Simulationsstudien, dass der CAT-Algorithmus in den oberen und unteren Merkmalsausprägungen des Stresserlebens besser zu differenzieren vermag und somit den hier eingesetzten Fragebogenerhebungen, die auf der Klassischen Testtheorie basieren, in Präzision und Ökonomie überlegen ist.
+DB  - PSYNDEX
+ER  - 
+
+Treffer: 8
+TY  - GEN
+N1  - DFK_0270865
+TI  - The development of a computer adaptive test for emotional functioning in cancer patients
+AU  - Gamper, Eva-Maria
+N1  - Innsbruck: Universität, Fakultät für Psychologie und Sportwissenschaft, 2012
+N1  - 134 pp.
+PY  - 2012
+AB  - Calibrated a German item bank for the computer-adaptive testing (CAT) of emotional functioning (EF) in cancer patients and tested different CAT versions. The methodology for item bank development was derived from European Organization for Research and Treatment of Cancer (EORTC) Guidelines for Module Development. They comprise thorough conceptualization and literature search, a multi-level cross-cultural review process, as well as the field testing of the developed item list in a sample of cancer patients. Data were analyzed using classical psychometric methods and item response theory (IRT) as well as real-data CAT simulations. The development procedure yielded 38 cross-culturally reviewed items assessing aspects of anxiety, depression, and general distress. They were tested in 204 cancer patients (mean age 59.3; 50.5% men). Psychometric analyses resulted in an item bank of 23 items with sufficient fit to a unidimensional model of EF and good content coverage. CAT simulations showed that the item bank is productive for CAT measurement and provides precise estimates with a small number of items. The item bank showed sufficient discriminative power, except for patients with very good EF. A severe floor effect indicated that more items would be required at the lower end of the continuum when aiming at assessing minor impairments.
+DB  - PSYNDEX
+ER  - 
+
+Treffer: 9
+TY  - GEN
+N1  - DFK_9005339
+TI  - A-CAT - Computer Adaptiver Test Angst (Angst-CAT; Anxiety-CAT). (PSYNDEX Tests Info)
+AU  - Walter, O.B.
+AU  - Becker, J.
+AU  - Fliege, H.
+AU  - Bjorner, J.
+AU  - Kosinski, M.
+AU  - Walter, M.
+AU  - Klapp, B.F.
+AU  - Rose, M.
+N1  - Entwicklungsschritte für einen computeradaptiven Test zur Erfassung von Angst (A-CAT). Diagnostica, 51 (2), 88-100 [zusätzlich: Anhang im Internet].
+N1  -  Bezugsquelle: Prof. Dr. med. Matthias Rose, Klinikdirektor, Medizinische Klinik mit Schwerpunkt Psychosomatik, Charité - Universitätsmedizin Berlin, Charitéplatz 1, D-10117 Berlin (E-Mail: leitung-psychosomatik@charite.de; URL: https://www.charite.de/service/person/person/address detail/rose/). - Anmerkung: Der abgekürzte Itemtext der A-CAT-Items ist abgedruckt bei Walter et al. (2005, S. 95).
+UR  - http://www.hogrefe.de/diagnostica/dia200551088_walter.pdf
+PY  - 2005
+DB  - PSYNDEX
+ER  - 
+
+Treffer: 10
+TY  - GEN
+N1  - DFK_9005670
+TI  - Stress-CAT - Computeradaptiver Test zur Erfassung von Stresserleben. (PSYNDEX Tests Info)
+AU  - Kocalevent, R.-D.
+N1  - Entwicklung eines computeradaptiven Tests zur Erfassung von Stresserleben (Stress-CAT). Digitale Dissertation, Freie Universität Berlin, Fachbereich Erziehungswissenschaft und Psychologie.
+N1  -  Bezugsquelle: Die Items sind vollständig abgedruckt bei Kocalevent (2005, S. 70-72).
+UR  - http://www.diss.fu-berlin.de/2005/206/
+PY  - 2005
+DB  - PSYNDEX
+ER  - 
+
+Treffer: 11
+TY  - GEN
+N1  - DFK_9008279
+TI  - ATEM 3-9 - Adaptiver Test des Emotionswissens (Adaptiver Test des Emotionswissens für drei- bis neunjährige Kinder). (PSYNDEX Tests Info)
+AU  - Voltmer, K.
+AU  - Salisch, M. v.
+N1  - ATEM 3-9. Adaptiver Test des Emotionswissens. Manual. Berlin: Springer.
+N1  - Euro 58,99 (Testmanual; Stand: 5.10.2021) Bezugsquelle: Springer-Verlag GmbH, Tiergartenstraße 17, D-69121 Heidelberg (E-Mail: customerservice@springernature.com; URL: http://www.springer.com/). - Anmerkung: Eine Computerform ist nach Verlagsangaben im Rahmen des Springer Testsystems erhältlich, jedoch finden Sich hierzu keine näheren Informationen. Auch nach einer Bezugsquelle des Testheftes sucht man vergeblich (Stand: 5.10.2021).
+UR  - https://doi.org/10.1007/978-3-662-59358-5
+PY  - 2021
+DB  - PSYNDEX
+ER  - 
+
+Treffer: 12
+TY  - JOUR
+N1  - DFK_0368792
+TI  - Validierung des Adaptiven Tests des Emotionswissens für drei- bis neunjährige Kinder (ATEM 3-9)
+AU  - Voltmer, Katharina
+T2  - Diagnostica
+DA  - 2020
+VL  - 66
+IS  - 3
+SP  - 158-171
+N1  - Diagnostica, 2020, 66 (3), 158-171
+UR  - https://doi.org/10.1026/0012-1924/a000244
+PY  - 2020
+AB  - Das Emotionswissen von Kindern umfasst neben dem Ablesen von Emotionen aus Gesichtern anderer Menschen auch das Erkennen von externalen und internalen Ursachen von Emotionen sowie das Wissen über ihre Konsequenzen und Regulationsmöglichkeiten. Im deutschsprachigen Raum gibt es bisher kein Testverfahren, welches das Emotionswissen auf diese Weise differenziert und gleichzeitig reliabel und valide erfasst. Mit dem &quot;Adaptiven Test des Emotionswissens&quot; (ATEM) wird diese Lücke geschlossen. Der ATEM fragt in einem adaptiven Design sechs Teilaspekte des Emotionswissens ab, wobei die 32 Items in eine kinderfreundliche Geschichte eingebettet sind. Der nach der Item-Response-Theorie aufgebaute Test zeigte bei einer Gesamtstichprobe von 581 Kindern im Alter zwischen drei und neun Jahren gute psychometrische Eigenschaften. In einer Substichprobe von 254 Kindern im Alter zwischen drei und fünf Jahren wurde der ATEM anhand von Korrelationen mit verschiedenen Variablen validiert. Insgesamt wird der ATEM als gut geeignet zur differenzierten Messung des Emotionswissens bei Kindern bewertet. Mit der elektronischen Version des Beitrags sind vier Supplemente verfügbar.
+DB  - PSYNDEX
+ER  - 
+
+Treffer: 13
+TY  - JOUR
+N1  - DFK_0178795
+TI  - Entwicklungsschritte für einen computeradaptiven Test zur Erfassung von Angst (A-CAT sub 1)
+AU  - Walter, Otto B.
+AU  - Becker, Janine
+AU  - Fliege, Herbert
+AU  - Bjorner, Jakob
+AU  - Kosinski, Mark
+AU  - Walter, Marc
+AU  - Klapp, Burghard F.
+AU  - Rose, Matthias
+T2  - Diagnostica
+DA  - 2005
+VL  - 51
+IS  - 2
+SP  - 88-100
+N1  - Diagnostica, 2005, 51 (2), 88-100
+N1  - 68 Literaturang.
+UR  - https://doi.org/10.1026/0012-1924.51.2.88
+PY  - 2005
+AB  - Es wird über die Entwicklung und Überprüfung eines Computer-adaptierten Angst-Tests (A-CAT sub 1)berichtet. Die empirische Erfassung psychischer Merkmale erfolgt in der Regel mit Instrumenten, die auf der Grundlage der klassischen Testtheorie entwickelt wurden. Seit den sechziger Jahren bietet sich hierzu mit der Item Response Theory (IRT) eine Alternative an, die verschiedene Vorteile verspricht. Auf ihrer Grundlage können u. a. computeradaptive Tests (CATs) entwickelt werden, die die Auswahl der vorgelegten Items dem Antwortverhalten der Patienten anpassen und damit eine höhere Messgenauigkeit bei reduzierter Itemzahl ermöglichen sollen. Von den Autoren wurden verschiedene Schritte zur Entwicklung eines CAT zur Erfassung von Angst unternommen, um zu prüfen, ob sich die theoretischen Vorzüge der IRT auch in der praktischen Umsetzung bestätigen lassen. Dargestellt wird die Entwicklung der zu Grunde liegenden Itembank. Hierfür wurde auf Daten von 2348 Patienten zurückgegriffen, die an der Medizinischen Klinik mit Schwerpunkt Psychosomatik der Charité zwischen 1995 und 2001 im Rahmen der Routinediagnostik ein umfangreiches Set etablierter konventioneller Fragebögen computergestützt beantwortet hatten. Diese beinhalteten 81 Items, die in einem Experten-Rating für das Merkmal Angst als relevant angesehen wurden. Die Eigenschaften dieser Items wurden anhand ihrer residualen Korrelationen nach konfirmatorischer Faktorenanalyse (Mplus), ihrer Antwortkategorienfunktion (Testgraf) und ihrer Diskriminationsfähigkeit (Parscale) überprüft. Es verblieben 50 Items, die für die Anwendung eines polytomen Zwei-Parameter-Modells (Generalized Partial Credit Model) als geeignet angesehen werden können. Orientiert man sich an einer Reliabilität von p &gt;= .90 und legt für den computeradaptiven Testalgorithmus einen Standardfehler von p &lt;= .32 fest, so zeigen Simulationsstudien, dass die Merkmalsausprägung für Angst im Bereich von ± 2 Standardabweichungen um den Mittelwert der Stichprobe mit etwa sieben Items ermittelt werden kann. Zudem legen die Simulationsstudien nahe, dass der CAT-Algorithmus das Merkmal in den oberen und unteren Ausprägungen besser zu differenzieren vermag als die konventionell berechnete Summen-Skala des STAI (State-Trait-Angstinventar).
+DB  - PSYNDEX
+ER  - 
+
+Treffer: 14
+TY  - JOUR
+N1  - DFK_0307122
+TI  - Evaluation of computerized adaptive tests (CATs) for longitudinal monitoring of depression, anxiety, and stress reactions
+AU  - Devine, Janine
+AU  - Fliege, Herbert
+AU  - Kocalevent, Rüya
+AU  - Mierke, Annett
+AU  - Klapp, Burghard F.
+AU  - Rose, Matthias
+T2  - Journal of Affective Disorders
+DA  - 2016
+VL  - 190
+SP  - 846-853
+N1  - Journal of Affective Disorders, 2016, 190, 846-853
+UR  - https://doi.org/10.1016/j.jad.2014.10.063
+PY  - 2016
+AB  - Examined the sensitivity and reliability of computerized adaptive testing (CAT) for the assessment of self-reported anxiety and depression outcomes compared to standard static clinical monitoring instruments. Based on item response theory, CATs are designed to minimize response burden while maximizing measurement precision. Longitudinal data collected for 595 psychosomatic inpatients were reanalyzed with correlation and ANOVA statistics for the purpose of examining three specific CATs' retest reliability and sensitivity to change compared to the Generalized Anxiety Disorder 7-item scale, the Patient Health Quesionnaire-9, and the Patient Satisfaction Questionnaire. The three CATs have been used in daily clinical routines for more than a decade. The results showed that all three caused low patient burden. They also administered, on average, 5-7 items with similar retest reliability compared to their corresponding static tools. All three CATs also proved to be as sensitive to change as their corresponding static tools. Future research will include multicenter assessments, external clinical criteria, multidimensional CATs, content balancing, and theta-dependent stopping rules.
+DB  - PSYNDEX
+ER  - 
+
+Treffer: 15
+TY  - GEN
+N1  - DFK_9007584
+TI  - Kids-CAT - Computer-adaptiver Tests zur Messung der gesundheitsbezogenen Lebensqualität bei Kindern und Jugendlichen (Kids-CAT Report). (PSYNDEX Tests Info)
+AU  - Devine, J.
+AU  - Otto, C.
+AU  - Rose, M.
+AU  - Barthel, D.
+AU  - Fischer, F.
+AU  - Mülhan, H.
+AU  - Nolte, S.
+AU  - Schmidt, S.
+AU  - Ottova-Jordan, V.
+AU  - Ravens-Sieberer, U.
+N1  - Kids-CAT Item Banks. Hamburg: University Medical Center Hamburg-Eppendorf, Department of Child and Adolescent Psychiatry, Psychotherapy, and Psychosomatics.
+N1  -  Bezugsquelle: Prof. Dr. Ulrike Ravens-Sieberer, Professur für Gesundheitswissenschaften und Versorgung von Kindern und Jugendlichen, Universität Hamburg, Direktorin der Forschung - Child Public Health, Universitätsklinikum Hamburg-Eppendorf, Martinistraße 52, D-20246 Hamburg (E-Mail: ravens-sieberer@uke.de; URL: http://ravens-sieberer.de/).
+PY  - 2014
+DB  - PSYNDEX
+ER  - 
+
+Treffer: 16
+TY  - JOUR
+N1  - DFK_0360501
+TI  - Calibration of an item bank in 474 orthopedic patients using Rasch analysis for computer-adaptive assessment of anxiety
+AU  - Kallinger, Selina
+AU  - Scharm, Henry
+AU  - Boecker, Maren
+AU  - Forkmann, Thomas
+AU  - Baumeister, Harald
+T2  - Clinical Rehabilitation
+DA  - 2019
+VL  - 33
+IS  - 9
+SP  - 1468-1478
+N1  - Clinical Rehabilitation, 2019, 33 (9), 1468-1478
+N1  - 55 Literaturang.
+UR  - www.psychauthors.de/psychauthors/index.php?wahl=forschung&amp;uwahl=psychauthors&amp;uuwahl=p06946TF
+UR  - https://doi.org/10.1177/0269215519846225
+PY  - 2019
+AB  - Objective: To calibrate an item bank of anxiety-related questions for use in orthopedic patients within a computer-adaptive test. Design: This is a psychometric study. Setting: The sample of orthopedic patients was recruited in two orthopedic rehabilitation clinics in Germany. Subjects: A total of 474 orthopedic rehabilitation patients were recruited for this study. Interventions: Not applicable. Main measures: The main measure is an adapted version of an existing anxiety item pool for cardiovascular rehabilitation patients. Results: The results of the confirmatory factor analysis and Mokken analysis confirmed a one-factor structure and double monotonicity. An anxiety item bank (48 items) could be developed and calibrated using Rasch analysis. It fitted to the Rasch model with a non-significant item-trait interaction (chi(2)(203) = 172.59; P = .94) and was free of differential item functioning. Unidimensionality could be verified and the person separation reliability was .96. The category threshold parameters varied between 4.72 and 3.16 (7.88 logits). Conclusion: The unidimensional anxiety item bank provides the basis for a computer-adaptive test to assess a wide range of anxiety in rehabilitation patients with orthopedic diseases with very good psychometric characteristics.
+DB  - PSYNDEX
+ER  - 
+
+Treffer: 17
+TY  - JOUR
+N1  - DFK_0266978
+TI  - Effect of item order on item calibration and item bank construction for computer adaptive tests
+AU  - Walter, Otto B.
+AU  - Rose, Matthias
+T2  - Psychological Test and Assessment Modeling
+DA  - 2013
+VL  - 55
+IS  - 1
+SP  - 81-91
+N1  - Psychological Test and Assessment Modeling, 2013, 55 (1), 81-91
+UR  - http://www.psychologie-aktuell.com/index.php?id=200
+PY  - 2013
+AB  - Item banks are typically constructed from responses to items that are presented in one fixed order; therefore, order effects between subsequent items may violate the independence assumption. The present study investigated the effect of item order on item bank construction, item calibration, and ability estimation. 15 polytomous items similar to items used in a pilot version of a computer adaptive test for anxiety (Walter et al., 2005; Walter et al., 2007) were presented in one fixed order or in a order randomly generated for each respondent. A total of 520 outpatients participated in the study. Item calibration (generalized partial credit model) yielded only small differences of slope and location parameters. Simulated test runs using either the full item bank or an adaptive algorithm produced very similar ability estimates (expected a posteriori estimation). These results indicate that item order had little impact on item calibration and ability estimation for this item set.
+DB  - PSYNDEX
+ER  - 
+
+Treffer: 18
+TY  - JOUR
+N1  - DFK_0269603
+TI  - The calibrated, unidimensional anxiety item bank for cardiovascular patients provided the basis for anxiety assessment in cardiovascular rehabilitation patients
+AU  - Abberger, Birgit
+AU  - Haschke, Anne
+AU  - Krense, Claudia
+AU  - Wirtz, Markus
+AU  - Bengel, Juergen
+AU  - Baumeister, Harald
+T2  - Journal of Clinical Epidemiology
+DA  - 2013
+VL  - 66
+IS  - 8
+SP  - 919-927
+N1  - Journal of Clinical Epidemiology, 2013, 66 (8), 919-927
+UR  - https://www.psychauthors.de/psychauthors/index.php?wahl=forschung&amp;uwahl=psychauthors&amp;uuwahl=p07355MW
+UR  - https://doi.org/10.1016/j.jclinepi.2012.08.009
+PY  - 2013
+AB  - Objective: Computer adaptive tests (CATs) offer a flexible, test fair, and economic opportunity for accurate measurement of anxiety in patients with cardiovascular diseases (CVDs). The objective of this study was to develop and calibrate an item bank [anxiety item bank for cardiovascular patients (AIB-cardio)] as a prerequisite for an anxiety-CAT in CVD patients. Study Design and Setting: After pretesting for relevance and comprehension, a pool of 155 anxiety items was answered on a five-point Likert scale. Sample consisted of 715 CVD patients, who were recruited in 14 German cardiac rehabilitation centers. A confirmatory factor analysis (CFA), Mokken analysis, and Rasch analysis were conducted. Results: The results of CFA and Mokken analysis confirmed one factor structure and double monotonicity. In Rasch analysis, merging response categories and removing items with misfit, differential item functioning or local response dependency reduced the AIB-cardio to 37 items. The AIB-cardio fitted to the Rasch model with a nonsignificant item trait interaction (chi-square, 133.89; degrees of freedom, 111; P = 0.07). Person separation reliability was 0.85, and unidimensionality could be verified. Conclusion: The calibrated, unidimensional AIB-cardio provides the basis for a CAT to assess anxiety in rehabilitation patients with CVD with good psychometric properties. Further testing in other cardiovascular patients is needed to increase generalizability. (C) 2013 Elsevier Inc. All rights reserved.
+DB  - PSYNDEX
+ER  - 
+
+Treffer: 19
+TY  - JOUR
+N1  - DFK_0215713
+TI  - An evaluation of patient-reported outcomes found computerized adaptive testing was efficient in assessing stress perception
+AU  - Kocalevent, Rueya-Daniela
+AU  - Rose, Matthias
+AU  - Becker, Janine
+AU  - Walter, Otto B.
+AU  - Fliege, Herbert
+AU  - Bjorner, Jakob B.
+AU  - Kleiber, Dieter
+AU  - Klapp, Burghard F.
+T2  - Journal of Clinical Epidemiology
+DA  - 2009
+VL  - 62
+IS  - 3
+SP  - 278-287
+N1  - Journal of Clinical Epidemiology, 2009, 62 (3), 278-287
+N1  - 61 Literaturang.
+UR  - https://www.psychauthors.de/psychauthors/index.php?wahl=forschung&amp;uwahl=psychauthors&amp;uuwahl=p00337DK
+UR  - https://doi.org/10.1016/j.jclinepi.2008.03.003
+PY  - 2009
+AB  - Evaluated a newly developed computerized adaptive test (CAT) for the assessment of stress perception (Stress-CAT). The Stress-CAT was developed based on the 2 dimensions stress exposure and stress reaction and on the basis of item-response theory. Properties of the generated item banks were examined in 2 simulation studies and based on the data of 1,092 psychosomatic in- and outpatients. Validity of the Stress-CAT was evaluated based on a sample of 116 psychosomatic inpatients who also completed other established stress questionnaires. The simulation studies and the clinical application of the Stress-CAT demonstrated that scores produced based on adaptive assessment corresponded with scores generated based on all items from the item pool with no differential item functioning effects for age or gender and similar patterns of association with the other administered stress questionnaires. Stress exposure items showed suboptimal measurement precision at low stress levels. Moderate correlations with existing stress measures were found, although Stress-CAT items were primarily drawn from the validity instruments, so that further validation studies are necessary.
+DB  - PSYNDEX
+ER  - 
+
+Treffer: 20
+TY  - GEN
+N1  - DFK_0371463
+TI  - Emotionswissen von Kindern in der frühen und mittleren Kindheit. Zusammenhänge mit schulischem Erfolg, interindividuelle Unterschiede und Möglichkeiten der Erfassung
+AU  - Voltmer, Katharina
+N1  - Lüneburg: Universität, Fakultät Bildung, 2020
+N1  - 73 S. Kumulative Dissertation. Elektronische Publikation im Internet
+UR  - http://nbn-resolving.de/urn:nbn:de:gbv:luen4-opus-146042
+PY  - 2020
+AB  - Das Emotionswissen umfasst verschiedene Bereiche des Erkennens und des Verständnisses von den Emotionen und Emotionsauslösern in anderen Menschen. Die Entwicklung des Emotionswissens findet zu einem großen Teil in der frühen und mittleren Kindheit statt und hängt mit verschiedenen weiteren emotionalen, sozialen und kognitiven Kompetenzen zusammen. In der aktuellen Forschung bestehen jedoch große Unterschiede in der Operationalisierung des Konstruktes. Diese Dissertation hat das Ziel, einige Zusammenhänge des Emotionswissens mit weiteren Variablen genauer zu untersuchen und ein neues Instrument zur Erfassung des Emotionswissens bei Kindern vorzustellen. Es wird der Zusammenhang des Emotionswissens von Kindern in der frühen und mittleren Kindheit mit schulischem Erfolg in Form von der Peerakzeptanz, der Einstellung zur Schule und der akademischen Leistungen betrachtet. Zudem werden die Entwicklung des Emotionswissens bei Kindern mit und ohne Migrationshintergrund, unter Einbezug ihres Sprachverständnisses und ihrer behavioraler Selbstregulation, verglichen. Außerdem werden die psychometrischen Eigenschaften des neu entwickelten Adaptiven Tests des Emotionswissens für drei- bis neunjährige Kinder untersucht. In dem ersten Beitrag der Dissertation, der drei Metaanalysen zum Zusammenhang zwischen dem Emotionswissen und schulischem Erfolg vorstellt, ergaben sich ein mittlerer Zusammenhang des Emotionswissens mit akademischem Schulerfolg und kleine Zusammenhänge mit Peerakzeptanz und der Einstellung zur Schule. Es zeigte sich unter anderem der sozioökonomische Status als ein moderierender Faktor auf diese Zusammenhänge. Im zweiten Beitrag der Dissertation, in dem ein Zuwachsmodell des Emotionswissens unter Einbezug von drei Messzeitpunkten innerhalb eines Jahres berechnet wurde, zeigten Kinder mit Migrationshintergrund zu allen Messzeitpunkten ein statistisch bedeutsam geringeres Emotionswissen als Kinder ohne Migrationshintergrund. Der Zusammenhang des Migrationshintergrundes mit dem Anfangswert des Emotionswissens wurde dabei vom Sprachverständnis und der behavioralen Selbstregulation mediiert. Der Adaptive Test des Emotionswissens für drei-bis neunjährige Kinder wurde mit dem Ziel entwickelt, eine differenzierte und gleichzeitig zeitökonomische Erhebung des Emotionswisssens bei dieser Altersgruppe zu ermöglichen. Der dritte Beitrag der Dissertation stellt die psychometrischen Eigenschaften des Tests vor, der bei einer Stichprobe von 581 Kindern angewendet wurde. Die vorliegende Dissertation unterstreicht die Relevanz des Emotionswissens bezüglich des sozialen und akademischen Erfolges von Kindern und verdeutlicht die Herausforderungen, vor denen Kinder mit Migrationshintergrund stehen. Der Adaptive Test des Emotionswissens für drei- bis neunjährige Kinder stellte sich als ein reliables und valides Instrument heraus, welches die Forschung zum Emotionswissen von Kindern vergleichbarer machen könnte. - Contents: (1) Voltmer, K. &amp; von Salisch, M. (2017). Three meta-analyses of children's emotion knowledge and their school success. Learning and Individual Differences, 59, 107-118. DOI: 10.1016/j.lindif.2017.08.006. (2) Voltmer, K. &amp; von Salisch, M. (2019). Native-born German and immigrant children's development of emotion knowledge: A latent growth curve analysis. British Journal of Developmental Psychology, 37, 112-129. DOI: 10.1111/bjdp.12262. (3) Voltmer, K. (2020). Validierung des Adaptiven Tests des Emotionswissens für drei- bis neunjährige Kinder (ATEM 3-9). Diagnostica, 66, 158-171. DOI: 10.1026/0012-1924/a000244.
+DB  - PSYNDEX
+ER  - 
+
+Treffer: 21
+TY  - JOUR
+N1  - DFK_0280163
+TI  - Screening for mental disorders in heart failure patients using computer-adaptive tests
+AU  - Fischer, H. Felix
+AU  - Klug, Cassandra
+AU  - Roeper, Koosje
+AU  - Blozik, Eva
+AU  - Edelmann, Frank
+AU  - Eisele, Marion
+AU  - Störk, Stefan
+AU  - Wachter, Rolf
+AU  - Scherer, Martin
+AU  - Rose, Matthias
+AU  - Herrmann-Lingen, Christoph
+T2  - Quality of Life Research
+DA  - 2014
+VL  - 23
+IS  - 5
+SP  - 1609-1618
+N1  - Quality of Life Research, 2014, 23 (5), 1609-1618
+UR  - https://doi.org/10.1007/s11136-013-0599-y
+PY  - 2014
+AB  - Item response theory is increasingly used in the development of psychometric tests. This paper evaluates whether these modern psychometric methods can improve self-reported screening for depression and anxiety in patients with heart failure. The mental health status of 194 patients with heart failure was assessed using six screening tools for depression (Patient Health Questionnaire -9 (9 items), Hospital Anxiety and Depression Scale (HADS) (7 items), PROMIS-Depression Short Form 8a (8 items)) and Anxiety (GAD-7 (7 items), Hospital Anxiety and Depression Scale (HADS) (7 items), PROMIS-Anxiety Short Form 8a (8 items)). An in-person structured clinical interview was used as the current gold standard to identify the presence of a mental disorder. The diagnostic accuracy of all static tools was compared when item response theory (IRT)-based person parameter were estimated instead of sum scores. Furthermore, we compared performance of static instruments with post hoc simulated individual-tailored computer-adaptive test (CATs) for both disorders and a common negative affect CAT. In general, screening for depression was highly efficient and showed a better performance than screening for anxiety with only minimal differences among the assessed instruments. IRT-based person parameters yielded the same diagnostic accuracy as sum scores. CATs showed similar screening performance compared to legacy instruments but required significantly fewer items to identify patients without mental conditions. Ideal cutoffs varied between male and female samples. Overall, the diagnostic performance of all investigated instruments was similar, regardless of the methods being used. However, CATs can individually tailor the test to each patient, thus significantly decreasing the respondent burden for patients with and without mental conditions. Such approach could efficiently increase the acceptability of mental health screening in clinical practice settings.
+DB  - PSYNDEX
+ER  - 
+
+Treffer: 22
+TY  - JOUR
+N1  - DFK_0266970
+TI  - Current issues in educational and psychological measurement: Design, calibration, and adaptive testing (Part 2)
+AU  - Kröhne, Ulf
+AU  - Frey, Andreas
+T2  - Psychological Test and Assessment Modeling
+DA  - 2013
+VL  - 55
+IS  - 1
+SP  - 79-80
+N1  - Psychological Test and Assessment Modeling, 2013, 55 (1), 79-80
+UR  - http://www.psychologie-aktuell.com/index.php?id=200
+PY  - 2013
+AB  - Item banks are typically constructed from responses to items that are presented in one fixed order; therefore, order effects between subsequent items may violate the independence assumption. We investigated the effect of item order on item bank construction, item calibration, and ability estimation. 15 polytomous items similar to items used in a pilot version of a computer adaptive test for anxiety (Walter et al., 2005; Walter et al., 2007) were presented in one fixed order or in a order randomly generated for each respondent. A total of n=520 out-patients participated in the study. Item calibration (Generalized Partial Credit Model) yielded only small differences of slope and location parameters. Simulated test runs using either the full item bank or an adaptive algorithm produced very similar ability estimates (expected a posteriori estimation). These results indicate that item order had little impact on item calibration and ability estimation for this item set.
+DB  - PSYNDEX
+ER  - 
+
+Treffer: 23
+TY  - GEN
+N1  - DFK_0363748
+TI  - New perspectives for the assessment of depression: Development of an item bank and a screening instrument applying Rasch analysis and structural equation modelling
+AU  - Forkmann, Thomas
+N1  - Aachen: Technische Hochschule, Medizinische Fakultät, 2008
+N1  - 88 pp., 41 pp. appendix Elektronische Publikation im Internet
+UR  - www.psychauthors.de/psychauthors/index.php?wahl=forschung&amp;uwahl=psychauthors&amp;uuwahl=p06946TF
+UR  - http://nbn-resolving.de/urn:nbn:de:hbz:82-opus-26407
+PY  - 2008
+AB  - Depressive disorders are among the most prevalent mental disorders and cause substantial harm and affliction as well as reduced quality of life and impaired psychosocial functioning. Apart from the clinical interview, questionnaires represent the most established and economic diagnostic instruments for depression. A multiplicity of questionnaires for depression has been developed across the past decades. However, several studies demonstrated substantial psychometric shortcomings of many depression questionnaires. Thus, further enhancements in this area appear to be mandatory. The present thesis comprises three studies that aim at further improving the quality of diagnostic methods for depression by making the benefits of modern test theoretical approaches, particularly the Rasch-Model, one of the Item-Response-Theory-Models, available for clinical practice. The first study aimed at providing an ample pool of depression items - the basic requirement for item bank calibration. A thorough review of existing diagnostic tools for depression and relevant literature led to a comprehensive compilation of depression items. Based on the relevance judgments of 49 adept clinical experts 157 relevant items were identified. An additional major finding of Study One was that clinical psychologists tended to regard emotional/ cognitive items as more important than psychiatrists while the latter tended to judge somatic items as more relevant than clinical psychologists. However, across all experts items about somatic complaints were considered as not relevant. The second study was the core of the current thesis and - based on the item pool of Study One - aimed at developing a calibrated item bank for depression and evaluating its psychometric properties. Evaluation of Rasch Model fit, differential item functioning (DIF), dimensionality, local independence, item spread, item and person separation, and reliability resulted in a bank of 79 items that showed good psychometric properties. However, a minority of items showed DIF that must be dealt with in all future applications and utilizations of the bank. Thus, CAT applications on the basis of the item bank should incorporate separate item difficulty estimates for the respective groups (e.g., female vs. male test takers) and questionnaires derived from the bank should hold gender or age dependent norms. Study Three aimed at exemplifying how the Rasch calibrated item bank for depression may be utilized by the derivation of two parallel short but sensitive static depression questionnaires that should cover a sufficiently high spread of depression severities with high test accuracy. This major aim was achieved with the development of the Rasch-based Screening for Depression I and II (DESC-I/ -II), a short depression scale in two parallel forms comprising 10 items each. This instrument may provide considerable benefits in retest applications and for screening purposes in mentally as well as somatically ill patients. Future investigations should engage in validating item calibrations and Rasch model fit of the item bank in a larger sample and DIF analyses should be repeated. Furthermore, psychometric properties of DESC-I and -II should be further investigated, including e.g. evaluation of its retest reliability and sensitivity to change, especially in heterogeneously composed samples that realistically reflect the patient mixture encountered by the practitioner. Finally, the adaptive algorithm that accesses the calibrated item bank should be built and evaluated to allow for computer-adaptive test applications. Taken together, the results of the present thesis constitute a psychometrically sound basis for computer-adaptive testing and provide a promising new screening instrument for depression ready for use. If the major suggestions for future investigations on the basis of the current findings are further pursued, a substantial leap towards better quality and heightened convenience for both patient and diagnostician in depression diagnostics is in near reach.
+DB  - PSYNDEX
+ER  - 
+
+Treffer: 24
+TY  - JOUR
+N1  - DFK_0263030
+TI  - Measuring risk literacy: The Berlin Numeracy Test
+AU  - Cokely, Edward T.
+AU  - Galesic, Mirta
+AU  - Schulz, Eric
+AU  - Ghazal, Saima
+AU  - Garcia-Retamero, Rocio
+T2  - Judgment and Decision Making (Online Journal)
+DA  - 2012
+VL  - 7
+IS  - 1
+SP  - 25-47
+N1  - Judgment and Decision Making (Online Journal), 2012, 7 (1), 25-47
+UR  - http://journal.sjdm.org/
+PY  - 2012
+AB  - Introduces the Berlin Numeracy Test, a newly developed instrument to quickly assess statistical numeracy and risk literacy. Results of 21 studies (n=5,336 college students) are presented that show robust psychometric discriminability across 15 countries (e.g., Germany, Pakistan, Japan, USA) and diverse samples (e.g., medical professionals, general populations, Mechanical Turk Web panels). Analyses show desirable patterns of convergent validity (e.g., numeracy, general cognitive abilities), discriminant validity (e.g., personality, motivation), and criterion validity (e.g., numerical and nonnumerical questions about risk). The Berlin Numeracy Test was found to be the strongest predictor of comprehension of everyday risks (e.g., evaluating claims about products and treatments; interpreting forecasts), doubling the predictive power of other numeracy instruments and accounting for unique variance beyond 13 other cognitive tests (e.g., cognitive reflection, working memory, intelligence). The Berlin Numeracy Test is described as typically taking about 3 minutes to complete and is available in multiple languages and formats, including a computer adaptive test that automatically scores and reports data to researchers (www.riskliteracy.org). Construct validity of numeracy for risk literacy is discussed, as well as underlying cognitive mechanisms and applications in adaptive decision support.
+DB  - PSYNDEX
+ER  - 
+
