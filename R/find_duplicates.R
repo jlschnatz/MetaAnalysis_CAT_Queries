@@ -2,7 +2,7 @@
 if (!"pacman" %in% installed.packages()) {
   install.packages("pacman")
 }
-pacman::p_load(tidyverse, here, revtools, fs, furrr, lubridate)
+pacman::p_load(tidyverse, here, revtools, fs, furrr, lubridate, rbibutils)
 
 ms_cores <- availableCores() - 2
 plan(multisession, workers = ms_cores)
@@ -42,3 +42,10 @@ write_bibliography(
   filename = here("data/db_dedup_query.ris"),
   format = "ris"
 )
+
+bibConvert(
+  infile = here("data/db_dedup_query.ris"),
+  outfile = here("data/db_dedup_query.bib"),
+  encoding = rep("utf16", 2)
+  )
+
