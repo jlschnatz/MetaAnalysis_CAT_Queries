@@ -43,9 +43,10 @@ write_bibliography(
   format = "ris"
 )
 
+# convert to utf16
 bibConvert(
   infile = here("data/db_dedup_query.ris"),
-  outfile = here("data/db_dedup_query.bib"),
+  outfile = here("data/db_dedup_query.ris"),
   encoding = rep("utf16", 2)
   )
 
