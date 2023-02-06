@@ -1,13 +1,12 @@
-# load packages
+# Load package ----
 
 if(!"pacman" %in% installed.packages()) {install.packages("pacman")}
 pacman::p_load(tidyverse, here, rbibutils, rentrez, wosr, rscopus, glue)
 
 query <- read_lines(here("search_string.txt"))
 
-
 # PubMed ----
-pubmed_search <- entrez_search(db = "pubmed", term = query, use_history = TRUE)
+pubmed_search <- entrez_search(db = "pubmed", term = query, use_history = F)
 pubmed_fetch <- entrez_fetch(
   db = "pubmed",
   web_history = pubmed_search$web_history, 
